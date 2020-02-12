@@ -1,3 +1,4 @@
-ThemeActa
+Act Theme
 
-Discord Theme for BetterDiscord – not available to public
+Discord Theme for BetterDiscord 
+– not available to public
