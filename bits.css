@@ -1,0 +1,31 @@
+/* ACT THEME RANDOM CSS BITS */
+
+.colorMuted-HdFt4q.size12-3cLvbJ:first-child:after {
+  content: "Act (1.2.3.2-r)";
+  display: block;
+}
+.wordmark-2iDDfm
+{
+    opacity: 0;
+}
+.container-1D34oG{
+    background: none  !important;
+}
+.nowPlayingColumn-2sl4cE{
+    background: none !important;
+}
+.wrapper-1cBijl{
+    background: #121212 !important;
+}
+.scrollableContainer-2NUZem.webkit-HjD9Er{
+    background: #121212 !important;
+}
+.downloadButton-23tKQp{
+    color:  #F1F1F1 !important;
+}
+
+/* remove later */
+.actions-1SQwjn
+{
+    opacity: 1;
+}
