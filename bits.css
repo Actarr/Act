@@ -26,8 +26,8 @@ html *{ font-family: sce-ps3_rodin_latinregular !important}
     color:  #F1F1F1 !important;
 }
 
-/* remove later */
-.actions-1SQwjn
-{
-    opacity: 1;
+.actions-1SQwjn {
+  all: unset;
+  height: 4320px;
+  width: 0px;
 }
