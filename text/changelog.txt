@@ -24,5 +24,6 @@ CHANGELOG
 1.2.3.1 - button color change
 1.2.3.2 - shit ton of minor adjustments
 1.2.3.3 - css file big clean up
+1.2.4 - css autoupdater
 
 Known bugs - add friends username box font formatting
