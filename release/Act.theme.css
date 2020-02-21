@@ -1,0 +1,9 @@
+//META{"name":"Act","description":"🎨 Acta / Aron's Personal Discord Theme —————————— @tomato#5185 Now with auto-updater! To get the latest version, restart Discord or wait for a short while.","author":"Acta / Aron","version":"1.2.6.1-auto"}*//
+@import url("https://actarr.github.io/Act/import.css");
+
+/* PRIVATE SKIN -- NOT TO BE DISTRIBUTED AS OF YET
+CHANGELOG-- actarr.github.io/Act/text/changelog.txt
+CREDIT -- actarr.github.io/Act/text/credit.txt */
+
+/* USE THEME PLUGIN FOR CUSTOMIZATION */
+:root {  --backgroundColor: rgba(7,7,7,1);  --backgroundImage: url('https://i.imgur.com/vKkhSls.png');  --backgroundImageOpacity: 0.25;  --homeButtonImage: url('https://bit.ly/ACTALogo');  --uiGradient1: rgba(255,0,255,1);  --uiGradient2: rgba(0,255,255,1);  --textNormal: rgba(255,255,255,1);  --textMuted: #72767d;  --textLinks: rgba(0,255,221,1);  --channelsDefault: rgba(194,194,194,1);  --channelsHover: rgba(255,255,255,1);  --channelsMuted: #7d7d7d;  --customFont: sce-ps3_rodin_latinregular}
