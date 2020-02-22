@@ -33,5 +33,6 @@ CHANGELOG
 1.2.4.2 - completely clean .css file -- no more improvements without restricting user's preferences
 1.2.5 - removed useless friends list buttons
 1.2.6 - friends tab finalized, add friend box fixed
+1.2.6.1 - finalized autoupdater
 -----------------------
 Known bugs - none
