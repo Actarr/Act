@@ -35,5 +35,6 @@ CHANGELOG
 1.2.6 - friends tab finalized, add friend box fixed
 1.2.6.1 - finalized autoupdater
 1.2.6.2 - slightly better load time
+1.2.6.3 - metadata completed
 -----------------------
 Known bugs - none
