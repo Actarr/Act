@@ -10,18 +10,14 @@ html *{ font-family: sce-ps3_rodin_latinregular !important}
 {
     opacity: 0;
 }
-.container-1D34oG{
-    background: none  !important;
-}
-.nowPlayingColumn-2sl4cE{
-    background: none !important;
-}
-.wrapper-1cBijl{
-    background: #121212 !important;
-}
-.scrollableContainer-2NUZem.webkit-HjD9Er{
-    background: #121212 !important;
-}
+.container-1D34oG,
+.nowPlayingColumn-2sl4cE {
+    background: none  !important; }
+
+.wrapper-1cBijl,
+.scrollableContainer-2NUZem.webkit-HjD9Er {
+    background: #121212 !important; }
+
 .downloadButton-23tKQp{
     color:  #F1F1F1 !important;
 }
