@@ -5,7 +5,7 @@ html *{ font-family: sce-ps3_rodin_latinregular !important}
 /* info box theme tab */
 #bd-settingspane-container .content-column.default .bda-slist::before { 
 white-space: pre;
-content: "Using -Act- Theme\a Changelog: https://actarr.github.io/Act/text/changelog.txt\a \a@tomato#5185 — for questions or reports" !important;
+content: "Using -Act- Theme (v1.3)\a Changelog: https://actarr.github.io/Act/text/changelog.txt\a \a@tomato#5185 — for questions or reports" !important;
 text-shadow: 1px 1px #5f5f5f;
 color: #fff !important; }
 
