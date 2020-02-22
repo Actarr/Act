@@ -27,3 +27,61 @@ color: #fff !important; }
 .actions-1SQwjn {
  display: none }
 
+/* light theme override */
+.theme-light .layer-3QrUeG:first-of-type::before {
+  content: "You need to have the dark mode enabled for this theme to work properly. To enable it, Go into Settings > Appearance > Above the Light button.";
+  position: fixed;
+  display: block;
+  width: 400px;
+  height: 50px;
+  top: 50%;
+  left: 50%;
+  background: #8b0000;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  color: white;
+  padding: 20px 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 10px rgba(240, 71, 71, 0.3);
+  border: 3px solid #F04747;
+  z-index: 2; }
+
+.theme-light .app-2rEoOp .container-3baos1 > .noWrap-3jynv6 > .button-14-BFJ:nth-child(3) {
+  position: fixed;
+  color: white;
+  left: 50%;
+  top: 52%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  margin-top: 70px;
+  width: 230px;
+  height: 40px;
+  visibility: visible !important;
+  background: #002222 !important;
+  border-radius: 5px;
+  border: 3px solid #00bbbb;
+  box-shadow: 0 2px 10px rgba(240, 71, 71, 0.3); }
+
+.theme-light .app-2rEoOp .container-3baos1 > .noWrap-3jynv6 > .button-14-BFJ:nth-child(3)::before {
+  position: absolute;
+  z-index: 10000;
+  content: "GO TO SETTINGS";
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 230px;
+  height: 14px;
+  border-radius: 5px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  visibility: visible !important;
+  font-size: 18px;
+  font-weight: 600;
+  color: white;
+  text-align: center; }
+
+.theme-light .app-2rEoOp .layer-3QrUeG:first-of-type *::before,
+.theme-light .app-2rEoOp .layer-3QrUeG:first-of-type *::after,
+.theme-light .app-2rEoOp .layer-3QrUeG:first-of-type * {
+  visibility: hidden !important; }
