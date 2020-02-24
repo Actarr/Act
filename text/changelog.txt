@@ -47,4 +47,4 @@ CHANGELOG
 1.4.3 - core properly created and changed
 1.4.3.1 - css remodeled
 -----------------------
-Known bugs - settings icon sometimes out of place
+Known bugs - settings icon sometimes out of place.
