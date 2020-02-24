@@ -19,11 +19,11 @@ html *{ font-family: sce-ps3_rodin_latinregular !important}
 
 /* VERSION NUMBER ALERTS */
 .colorMuted-HdFt4q.size12-3cLvbJ:first-child:after {
-  content: "Act 1.4.3.1-r (Update 42)";
+  content: "Act 1.4.3.2-r (Update 43)";
   display: block; }
 
 #bd-settingspane-container .content-column.default .bda-slist::before { 
 white-space: pre;
-content: "Using -Act- Theme (v1.4.3.1)\a Changelog: https://actarr.github.io/Act/text/changelog.txt\a \a@tomato#5185 — for questions or reports" !important;
+content: "Using -Act- Theme (v1.4.3.2)\a Changelog: https://actarr.github.io/Act/text/changelog.txt\a \a@tomato#5185 — for questions or reports" !important;
 text-shadow: 1px 1px #5f5f5f;
 color: #fff !important; }
