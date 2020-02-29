@@ -2,7 +2,7 @@
 
 Discord Theme for BetterDiscord - Currently not publicly available.
 
-CURRENT VERSION: v1.4.3.1 (Update 42)
+__CURRENT VERSION:__ **v1.4.3.2** *(Update 43)*
 
 **[GITHUB](https://github.com/Actarr/Act/)**
 
