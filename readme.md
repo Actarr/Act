@@ -1,4 +1,4 @@
-## Act
+# -Act- THEME
 
 A Custom .CSS Discord Theme for BandagedBD (Bandaged BetterDiscord) from Rauenzi, originally created by Jiiks.
 
