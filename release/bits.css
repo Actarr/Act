@@ -11,8 +11,14 @@
 
 .wordmark-2iDDfm,
 .container-1r6BKw .icon-22AiRD[name="Nova_Help"],
-.actions-1SQwjn {
- display: none }
+.actions-1SQwjn,
+.listItem-2P_4kh:nth-of-type(2),
+.listItem-2P_4kh:nth-of-type(12),
+.animatorTop-2Y7x2r .menu-Sp6bN1 .separator-2zcjq8,
+.animatorTop-2Y7x2r .menu-Sp6bN1 .helper-2c73HK,
+.customStatusIcon-3v67m6,
+.art-347BZj{
+ display: none;}
 
 /* light theme override */
 .theme-light .layer-3QrUeG:first-of-type::before {
@@ -100,9 +106,6 @@ body:active .animatorTop-2Y7x2r .menu-Sp6bN1:not(:active) {
 	opacity: 0;
 	transform: translateY(100%);
 	transition: 100ms var(--default-animation) !important;}
-
-.animatorTop-2Y7x2r .menu-Sp6bN1 .separator-2zcjq8 {
-	display: none;}
 
 .animatorTop-2Y7x2r .menu-Sp6bN1 .itemBase-1Qj4z6 {
 	position: relative;
