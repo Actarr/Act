@@ -5,9 +5,13 @@ A Custom .CSS Discord Theme for [BandagedBD](https://rauenzi.github.io/BetterDis
 ## Installing
 Theme is currently not publicly available.
 
-### Prerequisites
+### Requirements
 * [Discord App](https://discordapp.com/download/)
 * [BandagedBD](https://rauenzi.github.io/BetterDiscordApp/)
+
+### Important
+* Does __NOT__ support LIGHT THEME
+* Most compact support
 
 #
 ### [GITHUB](https://github.com/Actarr/Act/)
