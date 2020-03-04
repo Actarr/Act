@@ -9,7 +9,7 @@ Theme is currently not publicly available.
 * [Discord App](https://discordapp.com/download/)
 * [BandagedBD](https://rauenzi.github.io/BetterDiscordApp/)
 
-### Important
+### Notes
 * Does __NOT__ support LIGHT THEME
 * Most compact support
 
