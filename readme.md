@@ -14,4 +14,5 @@ Theme is currently not publicly available.
 ### [CHANGELOG](https://actarr.github.io/Act/text/changelog.txt)
 ### [CREDIT](https://actarr.github.io/Act/text/credit.txt)
 
+#
 ### __CURRENT VERSION:__ **v1.4.5** *(Update 45)*
