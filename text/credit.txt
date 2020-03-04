@@ -1,3 +1,4 @@
+/*
 CREDIT
 • bbryann - testing
 • Various - bdsources
@@ -5,3 +6,4 @@ CREDIT
 • Accrazed - font
 • Arudarin - core
 • Rauenzi - icons
+*/
