@@ -6,10 +6,8 @@ A Custom .CSS Discord Theme for [BandagedBD](https://rauenzi.github.io/BetterDis
 Theme is currently not publicly available.
 
 ### Prerequisites
-```
-Discord App: (https://discordapp.com/download/)
-BandagedBD: (https://rauenzi.github.io/BetterDiscordApp/)
-```
+* [Discord App](https://discordapp.com/download/)
+* [BandagedBD](https://rauenzi.github.io/BetterDiscordApp/)
 
 #
 ### [GITHUB](https://github.com/Actarr/Act/)
