@@ -6,6 +6,7 @@ Theme is currently not publicly available.
 
 ### Prerequisites
 [Discord App](https://discordapp.com/download/)
+
 [BandagedBD](https://rauenzi.github.io/BetterDiscordApp/)
 
 
