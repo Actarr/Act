@@ -11,8 +11,7 @@ Discord App: (https://discordapp.com/download/)
 BandagedBD: (https://rauenzi.github.io/BetterDiscordApp/)
 ```
 
-
-
+#
 ### [GITHUB](https://github.com/Actarr/Act/)
 ### [CHANGELOG](https://actarr.github.io/Act/text/changelog.txt)
 ### [CREDIT](https://actarr.github.io/Act/text/credit.txt)
