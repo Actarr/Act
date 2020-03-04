@@ -19,4 +19,4 @@ Theme is currently not publicly available.
 ### [CREDIT](https://actarr.github.io/Act/text/credit.txt)
 
 #
-### __CURRENT VERSION:__ **v1.4.5** *(Update 45)*
+### CURRENT VERSION: v1.4.5 *(Update 45)*
