@@ -1,6 +1,6 @@
 # -Act- THEME
 
-A Custom .CSS Discord Theme for BandagedBD (Bandaged BetterDiscord) from Rauenzi, originally created by Jiiks.
+A Custom .CSS Discord Theme for [BandagedBD](https://rauenzi.github.io/BetterDiscordApp/) (Bandaged BetterDiscord), a fork of [BetterDiscord](https://github.com/Jiiks/BetterDiscordApp) from Rauenzi, originally created by Jiiks.
 
 ## Installing
 Theme is currently not publicly available.
