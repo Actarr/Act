@@ -47,5 +47,7 @@ CHANGELOG
 1.4.3 - core properly created and changed
 1.4.3.1 - css remodeled
 1.4.3.2 - last manual update reminder
+1.4.4 - settings tab fix, css cleanup and ui clean up
+1.4.5 - big ui clean up, removed garbage features
 -----------------------
 Known bugs - settings icon sometimes out of place
