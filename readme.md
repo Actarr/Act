@@ -1,6 +1,7 @@
-# Act Theme
+# Act
 
-Discord Theme for BetterDiscord - Currently not publicly available.
+A Custom .CSS Discord Theme for BetterDiscord.
+Currently not publicly available.
 
 __CURRENT VERSION:__ **v1.4.5** *(Update 45)*
 
