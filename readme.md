@@ -19,4 +19,7 @@ Theme is currently not publicly available.
 ### [CREDIT](https://actarr.github.io/Act/text/credit.txt)
 
 #
-### CURRENT VERSION: v1.6 *(Update 49)*
+### CURRENT VERSION: v1.6.0 *(Update 49)* [1.6.25.16]
+```
+1.6.0 - Compact Mode almost full support
+```
