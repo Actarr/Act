@@ -107,7 +107,9 @@
 ## 1.5
 ```
 1.5.0 - rewrote and altered chat ui
+
 1.5.1 - bug fixes
+
 1.5.1.1 - css fixes
 ```
 ## 1.6
