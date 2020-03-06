@@ -116,6 +116,8 @@
 ```
 #
 
-Known bugs - usersettings icon sometimes out of place
-
-
+### Known bugs 
+```
+• User settings icons sometimes out of place
+• User settings version number misaligned (on the left)
+```
