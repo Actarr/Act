@@ -1,6 +1,6 @@
 # CHANGELOG
 
-## 0.1 start
+## 0.1 - start
 ```
 0.1.0a - beginning
 ```
@@ -16,7 +16,7 @@
 
 0.2.4a - home button
 ```
-## 1.0 first release
+## 1.0 - first release
 ```
 1.0.0 - stable full version
 
