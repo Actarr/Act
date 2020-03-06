@@ -1,11 +1,11 @@
 # CREDIT
 
-• bbryann - testing
+### • bbryann - testing
 
-• Various - bdsources
+### • Various - bdsources
 
-• Accrazed - font
+### • Accrazed - font
 
-• Arudarin - core
+### • Arudarin - some core parts
 
-• Rauenzi - icons
+### • Rauenzi - icons
