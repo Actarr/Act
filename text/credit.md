@@ -1,8 +1,11 @@
-/*
-CREDIT
+# CREDIT
+
 • bbryann - testing
+
 • Various - bdsources
+
 • Accrazed - font
+
 • Arudarin - core
+
 • Rauenzi - icons
-*/
