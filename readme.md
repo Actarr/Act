@@ -10,8 +10,8 @@ Theme is currently not publicly available.
 * [BandagedBD](https://rauenzi.github.io/BetterDiscordApp/)
 
 ### Notes
-* Does __NOT__ support LIGHT THEME
-* Most compact support
+* Full COMPACT support
+* Currently Does __NOT__ support LIGHT THEME
 
 #
 ### [GITHUB](https://github.com/Actarr/Act/)
@@ -19,4 +19,4 @@ Theme is currently not publicly available.
 ### [CREDIT](https://actarr.github.io/Act/text/credit.txt)
 
 #
-### CURRENT VERSION: v1.4.6 *(Update 46)*
+### CURRENT VERSION: v1.6 *(Update 49)*
