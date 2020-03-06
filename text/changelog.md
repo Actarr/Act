@@ -1,11 +1,11 @@
 # CHANGELOG
 
 ## 0.1 start
-
+```
 0.1.0a - beginning
-
+```
 ## 0.2 beta
-
+```
 0.2.0a - ui
 
 0.2.1a - colour adjustments
@@ -15,17 +15,17 @@
 0.2.3a - settings
 
 0.2.4a - home button
-
+```
 ## 1.0 first release
-
+```
 1.0.0 - stable full version
 
 1.0.1 - background and icon fixes
 
 1.0.2 - colour fixes
-
+```
 ## 1.1 
-
+```
 1.1.0 - font change and message ui changes; added message divider
 
 1.1.1 - fixed stuff with message box colouring
@@ -37,9 +37,9 @@
 1.1.3.1 - renamed; description added
 
 1.1.4 - fixed group dm button and channel creation buttons
-
+```
 ## 1.2 
-
+```
 1.2.0 - new chat box design; fixed dash thing above and left of message box
 
 1.2.0.1 - .css file updated
@@ -75,17 +75,17 @@
 1.2.6.2 - slightly better load time
 
 1.2.6.3 - metadata completed
-
+```
 ## 1.3
-
+```
 1.3.0 - ui cleaned up; useless buttons removed; dark mode enforcement; css cleaned; colors corrected
 
 1.3.1 - added text in theme tab
 
 1.3.1.1 - fixed text
-
+```
 ## 1.4
-
+```
 1.4.0 - new status picker; new settings icon integrated but not activated
 
 1.4.1 - status picker adjustments and fix
@@ -103,17 +103,17 @@
 1.4.5 - big ui clean up, removed garbage features
 
 1.4.6 - fixed problems stemming from discord update
-
+```
 ## 1.5
-
+```
 1.5.0 - rewrote and altered chat ui
 1.5.1 - bug fixes
 1.5.1.1 - css fixes
-
+```
 ## 1.6
-
+```
 1.6.0 - compact mode almost full support
-
+```
 #
 
 Known bugs - usersettings icon sometimes out of place
