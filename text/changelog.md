@@ -4,7 +4,7 @@
 ```
 0.1.0a - beginning
 ```
-## 0.2 beta
+## 0.2 - beta
 ```
 0.2.0a - ui
 
