@@ -1,4 +1,4 @@
-# CHANGELOG
+# CHANGELOG (Update 49) [1.6.25.16]
 
 ## 0.1 - start
 ```
@@ -118,4 +118,4 @@
 
 Known bugs - usersettings icon sometimes out of place
 
-(Update 49) {1.6.25.16}
+
