@@ -4,11 +4,15 @@ CHANGELOG
 
 0.2.0a - ui
 
-
+-
 0.2.1a - colour adjustments
+
 0.2.2a - background
+
 0.2.3a - settings
+
 0.2.4a - home button
+
 -
 1.0.0 - stable full version
 1.0.1 - background and icon fixes
