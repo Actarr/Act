@@ -3,7 +3,7 @@
 A Custom .CSS Discord Theme for [BandagedBD](https://rauenzi.github.io/BetterDiscordApp/) (Bandaged BetterDiscord), a fork of [BetterDiscord](https://github.com/Jiiks/BetterDiscordApp) from Rauenzi, originally created by Jiiks. 
 
 ## Installing
-Theme is currently not publicly available.
+Theme is currently not publicly available (will be available sometime from now to about 2 months).
 
 ### Requirements
 * [Discord App](https://discordapp.com/download/)
