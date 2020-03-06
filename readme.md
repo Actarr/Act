@@ -14,8 +14,7 @@ Theme is currently not publicly available.
 * Currently Does __NOT__ support LIGHT THEME
 
 #
-### [GITHUB](https://github.com/Actarr/Act/)
-### [CHANGELOG](https://actarr.github.io/Act/text/changelog.txt)
+### [GITHUB](https://github.com/Actarr/Act/) [CHANGELOG](https://actarr.github.io/Act/text/changelog.txt)
 ### [CREDIT](https://actarr.github.io/Act/text/credit.txt)
 
 #
