@@ -50,5 +50,12 @@ CHANGELOG
 1.4.4 - settings tab fix, css cleanup and ui clean up
 1.4.5 - big ui clean up, removed garbage features
 1.4.6 - fixed problems stemming from discord update
+-
+1.5 - rewrote and altered chat ui
+1.5.1 - bug fixes
+-
+1.6 - compact mode almost full support
 -----------------------
-Known bugs - settings icon sometimes out of place
+Known bugs - usersettings icon sometimes out of place
+
+(Update 48)
