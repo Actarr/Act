@@ -1,4 +1,4 @@
-# CHANGELOG (Update 51) [1.6.27.18]
+# CHANGELOG (Update 54) [1.6.28.18]
 
 ## 0.1 - start
 ```
@@ -123,6 +123,8 @@
 1.6.2 - Theme more customizable - font; watermark with changeable opacity
 
 1.6.2.1 - fixed bug- version on left of user-settings
+
+1.6.3 - a lot of fixes; added proper screen for text on theme menu
 ```
 #
 
