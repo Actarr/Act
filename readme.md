@@ -29,5 +29,6 @@ Theme is currently not publicly available (will be available sometime from now t
 1.6.0 - Compact Mode almost full support
 1.6.0.1 - Metadata additions - contact easier
 1.6.1 - Ported almost everything into core.css file, nearly completely dependent
-1.6.2 - Theme more customizable - font; watermark
+1.6.2 - Theme more customizable - font; watermark with changable opacity
+1.6.2.1 - fixed version on left of user-settings
 ```
