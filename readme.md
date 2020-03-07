@@ -5,7 +5,7 @@ A Custom .CSS Discord Theme for [BandagedBD](https://rauenzi.github.io/BetterDis
 ## Installing
 Theme is currently not publicly available (will be available sometime from now to about 2 months).
 
-<a href="release/Act.theme.css" download="Act.theme.css">Download</a>
+[Download Here](release/Act.theme.css)
 
 ### Requirements
 * [Discord App](https://discordapp.com/download/)
