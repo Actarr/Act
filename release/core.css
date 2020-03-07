@@ -114,7 +114,7 @@ html *{ font-family: sce-ps3_rodin_latinregular !important}
 /* == COZY MODE CHAT UI == */
 /* welcome new chat */
 div[class*="cozyMessage"][class*="groupStart"] {
-  margin-top: 20px!important; position: relative;}
+  margin-top: 35px!important; position: relative;}
 
 /* Remove message highlight & timestamp */
 div[class*="chatContent"] > div[class*="messagesWrapper"] div[class*="message"] {background-color: transparent;}
