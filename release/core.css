@@ -16,8 +16,10 @@ html *{ font-family: sce-ps3_rodin_latinregular !important}
 .latin24CompactTimeStamp-2V7XIQ.timestamp-3ZCmNB{font-size:9px;padding-right:2px;color:#ccc}
 
 /* COZY MODE CHAT UI */
+
+/* welcome new chat */
 div[class*="cozyMessage"][class*="groupStart"] {
-  margin-top: 40px!important; position: relative;}
+  margin-top: 20px!important; position: relative;}
 
 /* Remove message highlight & timestamp */
 div[class*="chatContent"] > div[class*="messagesWrapper"] div[class*="message"] {
