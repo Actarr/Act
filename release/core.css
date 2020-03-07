@@ -433,9 +433,6 @@ body:active .animatorTop-2Y7x2r .menu-Sp6bN1:not(:active) {
 .cancelButton-2O3h8t:hover {text-decoration: none;}
 
 /* VERSION NUMBER ALERTS */
-#user-settings nav[class^="sidebar-"] > div > div[class^="info"]:last-child > div:first-child::before {
-  white-space: pre; content: 'Act 1.6.2.1-R (1.6.27.18) \a';}
-
 #bd-settingspane-container .content-column.default .bda-slist::before { 
   white-space: pre; text-shadow: 1px 1px #4f4f4f; color: #fff !important; display: block; background: linear-gradient(90deg, var(--uiGradient1), var(--uiGradient2)); 
   font-size: 16px !important; border-radius: 12px; padding: 8px; line-height: 120%;
@@ -445,3 +442,6 @@ body:active .animatorTop-2Y7x2r .menu-Sp6bN1:not(:active) {
   text-shadow: 1px 1px #000; color: #fff !important; display: block; background: linear-gradient(90deg, #dc322f, #561010); 
   font-size: 24px !important; border-radius: 12px; padding: 8px; line-height: 120%; text-align: center;
   content: "THEME CANNOT BE MODIFIED FOR RELEASE" !important; }
+
+#user-settings nav[class^="sidebar-"] > div > div[class^="info"]:last-child > div:first-child::before {
+  white-space: pre; content: 'Act 1.6.3-R (1.6.28.18) \a';}
