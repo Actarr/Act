@@ -9,6 +9,9 @@ Theme is currently not publicly available (will be available sometime from now t
 * [Discord App](https://discordapp.com/download/)
 * [BandagedBD](https://rauenzi.github.io/BetterDiscordApp/)
 
+### Recommended Plugins
+* [ThemeSettings](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Plugins/ThemeSettings)
+
 ### Notes
 * Full COMPACT support
 * Currently Does __NOT__ support LIGHT THEME
