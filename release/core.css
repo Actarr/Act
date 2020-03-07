@@ -431,7 +431,7 @@ body:active .animatorTop-2Y7x2r .menu-Sp6bN1:not(:active) {
 
 /* VERSION NUMBER ALERTS */
 #user-settings nav[class^="sidebar-"] > div > div[class^="info"]:last-child > div:first-child::before {
-  content: 'Act 1.6.0.1-R (Update 50)';}
+  content: 'Act 1.6.1-R (Update 51)';}
 
 #bd-settingspane-container .content-column.default .bda-slist::before { 
-white-space: pre; content: "Using -Act- Theme (v1.6.0)\a Changelog: 1.6.0.1 - Again, redid some CHAT UI; Added COMPACT Mode Support\a \a@tomato#5185 — for questions or reports" !important; text-shadow: 1px 1px #5f5f5f; color: #fff !important;}
+white-space: pre; content: "Using -Act- Theme (v1.6.1)\a Major Update: 1.6.0 - Again, redid some CHAT UI; Added COMPACT Mode Support\a \a@tomato#5185 — for questions or reports" !important; text-shadow: 1px 1px #5f5f5f; color: #fff !important;}
