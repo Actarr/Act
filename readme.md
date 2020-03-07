@@ -5,7 +5,7 @@ A Custom .CSS Discord Theme for [BandagedBD](https://rauenzi.github.io/BetterDis
 ## Installing
 Theme is currently not publicly available (will be available sometime from now to about 2 months).
 
-[Download Here](https://github.com/Actarr/Act/raw/master/release/meta/Act.theme.zip)
+### [Download Here](https://github.com/Actarr/Act/raw/master/release/meta/Act.theme.zip)
 
 ### Requirements
 * [Discord App](https://discordapp.com/download/)
@@ -20,7 +20,7 @@ Theme is currently not publicly available (will be available sometime from now t
 
 ---
 
-### [WEBSITE](https://actarr.github.io/Act/)  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; [CHANGELOG](https://actarr.github.io/Act/text/changelog.md) &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp;[CREDIT](https://actarr.github.io/Act/text/credit.md)
+### [WEBSITE](https://actarr.github.io/Act/)  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; [CHANGELOG](https://actarr.github.io/Act/text/changelog) &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp;[CREDIT](https://actarr.github.io/Act/text/credit)
 
 ---
 
