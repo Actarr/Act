@@ -434,7 +434,14 @@ body:active .animatorTop-2Y7x2r .menu-Sp6bN1:not(:active) {
 
 /* VERSION NUMBER ALERTS */
 #user-settings nav[class^="sidebar-"] > div > div[class^="info"]:last-child > div:first-child::before {
-  content: 'Act 1.6.2.1-R (UPD 52)';}
+  white-space: pre; content: 'Act 1.6.2.1-R (1.6.27.18) \a';}
 
 #bd-settingspane-container .content-column.default .bda-slist::before { 
-white-space: pre; content: "Using -Act- Theme (v1.6.2.1)\a Major Update: 1.6.0 - Again, redid some CHAT UI; Added COMPACT Mode Support\a 1.6.2 - Theme more customizable - font; watermark \a \a@tomato#5185 — for questions or reports" !important; text-shadow: 1px 1px #5f5f5f; color: #fff !important;}
+  white-space: pre; text-shadow: 1px 1px #4f4f4f; color: #fff !important; display: block; background: linear-gradient(90deg, var(--uiGradient1), var(--uiGradient2)); 
+  font-size: 16px !important; border-radius: 12px; padding: 8px; line-height: 120%;
+  content: "Using -Act- Theme (v1.6.3)\a \a v1.6.0 - Again, redid some CHAT UI; Added COMPACT Mode \a v1.6.3 - Redesigns, like this one \a \a@tomato#5185 — for questions or reports" !important; }
+
+#bd-settingspane-container .content-column.default .bda-slist::after { 
+  text-shadow: 1px 1px #000; color: #fff !important; display: block; background: linear-gradient(90deg, #dc322f, #561010); 
+  font-size: 24px !important; border-radius: 12px; padding: 8px; line-height: 120%; text-align: center;
+  content: "THEME CANNOT BE MODIFIED FOR RELEASE" !important; }
