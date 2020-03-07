@@ -12,8 +12,8 @@
 /* Font */
 @font-face {
     font-family: 'sce-ps3_rodin_latinregular';
-    src: url('Act/release/fonts/sce-ps3-rd-r-latin.woff2') format('woff2'),
-         url('Act/release/fonts/sce-ps3-rd-r-latin.woff') format('woff');
+    src: url('release/fonts/sce-ps3-rd-r-latin.woff2') format('woff2'),
+         url('release/fonts/sce-ps3-rd-r-latin.woff') format('woff');
     font-weight: normal;
     font-style: normal;}
 
