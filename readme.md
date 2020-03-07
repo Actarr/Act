@@ -19,7 +19,7 @@ Theme is currently not publicly available (will be available sometime from now t
 
 ---
 
-### CURRENT VERSION: v1.6.0 *(Update 50)* [1.6.25.17]
+### CURRENT VERSION: v1.6.0.1 *(Update 50)* [1.6.25.17]
 ```
 1.6.0 - Compact Mode almost full support
 1.6.0.1 - Metadata additions - contact easier
