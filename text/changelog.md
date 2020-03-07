@@ -1,4 +1,4 @@
-# CHANGELOG (Update 51) [1.6.27.17]
+# CHANGELOG (Update 51) [1.6.27.18]
 
 ## 0.1 - start
 ```
@@ -121,14 +121,14 @@
 1.6.1 - removed css files and ported into one
 
 1.6.2 - Theme more customizable - font; watermark with changeable opacity
+
+1.6.2.1 - fixed bug- version on left of user-settings
 ```
 #
 
 ### Known bugs 
 ```
 • User settings icons sometimes out of place
-
-• User settings version number misaligned (on the left)
 ```
 #
 
