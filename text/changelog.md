@@ -1,4 +1,4 @@
-# CHANGELOG (Update 49) [1.6.25.17]
+# CHANGELOG (Update 51) [1.6.26.17]
 
 ## 0.1 - start
 ```
@@ -117,6 +117,8 @@
 1.6.0 - compact mode almost full support
 
 1.6.0.1 - Metadata additions - contact easier
+
+1.6.1 - removed css files and ported into one
 ```
 #
 
