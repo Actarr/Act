@@ -11,9 +11,98 @@
 /* Font */
 html *{ font-family: sce-ps3_rodin_latinregular !important}
 
-/* Colors */
+/* Color changes */
 .edited-3sfAzf{font-size:10.5px; color:#aaa}
-.latin24CompactTimeStamp-2V7XIQ.timestamp-3ZCmNB{font-size:9px;padding-right:2px;color:#ccc}
+.latin24CompactTimeStamp-2V7XIQ.timestamp-3ZCmNB{font-size:9px; padding-right:2px; color:#ccc}
+
+/* Background replacing */
+.bg-h5JY_x,
+.layers-3q14ss,
+.wrapper-1Rf91z,
+.chatContent-a9vAAp,
+.container-1r6BKw.themed-ANHk51,
+.chat-3bRxxu,
+.scroller-2TZvBN,
+.sidebar-2K8pFh,
+.members-1998pB,
+.messages-3amgkRn,
+.base-3dtUhz,
+.messages-3amgkR,
+.panels-j1Uci_,
+.container-PNkimc,
+.standardSidebarView-3F1I7i,
+.header-39GIC8,
+.scroller-1JbKMe,
+.sidebarRegionScroller-3MXcoP,
+.container-3baos1,
+.sidebar-2K8pFh,
+.contentRegion-3nDuYy,
+.layer-3QrUeG,
+.container-3gCOGc,
+.privateChannels-1nO12o,
+.scroller-5bBood,
+.scroller-1IIF0A,
+.contentRegionScroller-26nc1e,
+.scroller-9moviB,
+.scroller-305q3I,
+.applicationStore-1pNvnv,
+.activityFeed-1C0EmJ,
+.bodyInner-245q0L,
+.footer-1fjuF6,
+.paginator-166-09,
+.root-1BQpZw,
+.pageWrapper-1PgVDX,
+.payment-xT17Mq,
+.searchResultsWrap-2DKFzt,
+.searchHeader-1l-wpR,
+.channelSeparator-1X1FuH .channelName-1QajIf,
+.headerNormal-T_seeN,
+.friendsTable-133bsv .friendsTableBody-1ZhKif,
+.layer-3QrUeG.baseLayer-35bLyl,
+.app-2rEoOp,
+.container-1D34oG,
+.nowPlayingColumn-2sl4cE {background: transparent !important; }
+
+/* Shadow removing */
+.container-1r6BKw,
+.searchBar-6Kv8R2,
+.emojiRow-zIc7ZX,
+.title-3qD0b-,
+.content-yTz4x3:before,
+.container-3T1zWi:before,
+.container-19hC9u:before,
+.container-xm7Ad0:before,
+.friendsTable-133bsv:before,
+.member-1q7VfX,
+.bannedUser-1IalTM,
+.inviteSettingsInviteRow-3p2O-N,
+.searchResult-3pzFAB .hit-NLlWXA,
+.searchHeader-1l-wpR,
+.item-3eFBNF,
+.game-1ipmAa,
+.header-2o-2hj {box-shadow: none!important;}
+
+.searchResult-3pzFAB:before,
+.searchResult-3pzFAB:after,
+.channelSeparator-1X1FuH:before,
+.children-19S4PO:after {display: none!important}
+
+/* remove thing borders */
+.header-39GIC8,
+.channelTextArea-rNsIhG,
+.leaveActionWrapper-34XGz6,
+.featureBorder-7j4v58,
+.card-FDVird:before,
+.paymentHeader-3QlZQi,
+.bottomDivider-1K9Gao,
+.divider-3wNib3,
+.rowWrapper-2fB6P0+.rowWrapper-2fB6P0 .row-ZLfFhY,
+.friendsTable-133bsv .friendsTableHeader-32yE7d,
+.friendsTable-133bsv .friendsRow-2yicud+.friendsRow-2yicud,
+.dividerEnabled-2TTlcf {border: none!important;}
+.divider-3573oO,
+.attachButtonDivider-3Glu60,
+.side-8zPYf6 .separator-gCa7yv {display: none!important;}
 
 /* COZY MODE CHAT UI */
 
@@ -178,6 +267,12 @@ div[class*="chatContent"] > div[class*="messagesWrapper"] div[class^="groupStart
 
 div[class*="chatContent"] > div[class*="messagesWrapper"] div[class^="groupStart"][class*="expanded"]:not([class*="message"]):not([class*="system"]):not([class*="backgroundFlash"]):not([class*="wrapper"])::before {
   top: -10px; height: calc(100% + 20px);}
+
+/* scrollbar */
+::-webkit-scrollbar {border: none !important;width: 6px !important;}
+::-webkit-scrollbar-track {background: transparent;border: none !important;}
+::-webkit-scrollbar-track-piece {background: transparent !important;border: none !important;}
+::-webkit-scrollbar-thumb {background: rgba(0,0,0,.5)!important;border-radius: 20px !important;border: none !important;}
 
 /* VERSION NUMBER ALERTS */
 #user-settings nav[class^="sidebar-"] > div > div[class^="info"]:last-child > div:first-child::before {
