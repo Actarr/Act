@@ -237,7 +237,7 @@ div[class*="chatContent"] > div[class*="messagesWrapper"] div[class*="message"][
   padding: 0; padding-left: 80px;}
 
 #user-settings div[class^="contentRegion"] main[class^="contentColumn"] div[class^="children"] > div[class^="preview"] ~ h2[class^="h2"][class*="marginTop60"] ~ div:not([class]) + div[class^="marginTop20"] > h5::after {
-  content: "(USE 16px OR THEME MAY NOT WORK AS INTENDED)"; color: var(--textLinks); margin-left: 96.96px;}
+  content: "(USE 16px OR THEME MAY NOT WORK AS INTENDED)"; color: var(--textLinks); margin-left: 4px;}
 
 
 
