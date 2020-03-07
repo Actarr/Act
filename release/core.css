@@ -305,7 +305,7 @@ div[class*="chatContent"] > div[class*="messagesWrapper"] div[class^="groupStart
 /* removable watermark */
 .wordmarkWindows-1v0lYD svg *{display: none!important;}
 .wordmark-2iDDfm svg{
-   background-image: url("https://i.imgur.com/cK99a9C.png");
+   background-image: url("https://i.imgur.com/iJSLv7J.png");
    background-position: center; background-repeat: no-repeat; background-size: contain;
    width:60px; height:16px; padding-left:15px; padding-right:15px; display: block; opacity: var(--myWatermarkOpacity);}
 
