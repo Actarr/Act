@@ -4,8 +4,8 @@
 
 @font-face {
     font-family: 'sce-ps3_rodin_latinregular';
-    src: url('sce-ps3-rd-r-latin-webfont-webfont.woff2') format('woff2'),
-         url('sce-ps3-rd-r-latin-webfont-webfont.woff') format('woff');
+    src: url('sce-ps3-rd-r-latin-webfont.woff2') format('woff2'),
+         url('sce-ps3-rd-r-latin-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
