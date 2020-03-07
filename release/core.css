@@ -10,22 +10,19 @@
 
 
 /* Font */
-@font-face {
-    font-family: 'sce-ps3_rodin_latinregular';
-    src: url('release/fonts/sce-ps3-rd-r-latin-webfont.woff2') format('woff2'),
-         url('release/fonts/sce-ps3-rd-r-latin-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;}
-html *{ font-family: sce-ps3_rodin_latinregular !important}
+@import url("https://actarr.github.io/Act/release/fonts/stylesheet.css");
+
+html *{font-family:var(--customFont) !important}
 
 .name-IbjUBS.container-2ax-kl{font-weight: 500}
 
 
 /* Scrollbar */
-::-webkit-scrollbar {border: none !important;width: 6px !important;}
-::-webkit-scrollbar-track {background: transparent;border: none !important;}
+::-webkit-scrollbar {border: transparent !important; width: 6px !important;}
+::-webkit-scrollbar-track {background: transparent; border: none !important;}
 ::-webkit-scrollbar-track-piece {background: transparent !important;border: none !important;}
-::-webkit-scrollbar-thumb {background: rgba(0,0,0,.5)!important;border-radius: 20px !important;border: none !important;}
+::-webkit-scrollbar-thumb {background: -webkit-linear-gradient(90deg, var(--uiGradient1), var(--uiGradient2)) !important; 
+  border-radius: 20px !important; border: none !important;}
 
 /* Color changes */
 .edited-3sfAzf{font-size:10.5px; color:#aaa}
