@@ -1,4 +1,4 @@
-# CHANGELOG (Update 51) [1.6.26.17]
+# CHANGELOG (Update 51) [1.6.27.17]
 
 ## 0.1 - start
 ```
@@ -119,6 +119,8 @@
 1.6.0.1 - Metadata additions - contact easier
 
 1.6.1 - removed css files and ported into one
+
+1.6.2 - Theme more customizable - font; watermark with changeable opacity
 ```
 #
 
