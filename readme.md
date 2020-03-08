@@ -3,8 +3,6 @@
 A Custom .CSS Discord Theme for [BandagedBD](https://rauenzi.github.io/BetterDiscordApp/) (Bandaged BetterDiscord), a fork of [BetterDiscord](https://github.com/Jiiks/BetterDiscordApp) from Rauenzi, originally created by Jiiks. 
 
 ## Installing
-Theme is currently not publicly available (will be available sometime from now to about 2 months).
-
 ### [Download Here](https://github.com/Actarr/Act/raw/master/release/meta/Act.theme.zip)
 
 ### Requirements
@@ -24,12 +22,10 @@ Theme is currently not publicly available (will be available sometime from now t
 
 ---
 
-### CURRENT VERSION: v1.6.3 *(Update 54)* [1.6.28.18] - March 7th, 2020
+### CURRENT VERSION: v1.7.0 *(Update 55)* [1.8.28.18] - March 8th, 2020
 ```
-1.6.0 - Compact Mode almost full support
-1.6.0.1 - Metadata additions - contact easier
-1.6.1 - Ported almost everything into core.css file, nearly completely dependent
-1.6.2 - Theme more customizable - font; watermark with changable opacity
-1.6.2.1 - fixed version on left of user-settings
-1.6.3 - buncha fixes and added theme menu design at top and bottom
+1.7.0 - New popout menu for members list. Altered role menu, changed bot tag colors, 
+new watermark design - also less obstrusive. New role enforcement box design (see Nitro role). 
+Added design to warning on bottom of theme tab. 
+Added new friends list popout tab but not currently implemented.
 ```
