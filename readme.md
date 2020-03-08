@@ -22,7 +22,7 @@ A Custom .CSS Discord Theme for [BandagedBD](https://rauenzi.github.io/BetterDis
 
 ---
 
-### CURRENT VERSION: v1.7.0 *(Update 55)* [1.8.28.18] - March 8th, 2020
+### CURRENT VERSION: v1.7.0 *(Update 55)* [1.8.27.18] - March 8th, 2020
 ```
 1.7.0 - New popout menu for members list. Altered role menu, changed bot tag colors, 
 new watermark design - also less obstrusive. New role enforcement box design (see Nitro role). 
