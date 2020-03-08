@@ -125,8 +125,7 @@
 1.6.2.1 - fixed bug- version on left of user-settings
 
 1.6.3 - a lot of fixes; added proper screen for text on theme menu
-
-
+```
 ## 1.7 - redesigning update
 ```
 1.7.0 - New popout menu for members list. Altered role menu, changed bot tag colors, new watermark design - also less obstrusive. 
