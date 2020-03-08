@@ -88,6 +88,7 @@ html *{font-family:var(--customFont) !important}
 .animatorTop-2Y7x2r .menu-Sp6bN1 .separator-2zcjq8,
 .animatorTop-2Y7x2r .menu-Sp6bN1 .helper-2c73HK,
 .customStatusIcon-3v67m6,
+.channelNotice-1-XFjC.premiumGuildSubscription-3oKecP,
 .art-347BZj{display: none;}
 
 /* Shadow removing */
@@ -108,7 +109,6 @@ html *{font-family:var(--customFont) !important}
 .item-3eFBNF,
 .game-1ipmAa,
 .header-2o-2hj {box-shadow: none!important;}
-
 .searchResult-3pzFAB:before,
 .searchResult-3pzFAB:after,
 .channelSeparator-1X1FuH:before,
@@ -127,12 +127,89 @@ html *{font-family:var(--customFont) !important}
 .friendsTable-133bsv .friendsTableHeader-32yE7d,
 .friendsTable-133bsv .friendsRow-2yicud+.friendsRow-2yicud,
 .dividerEnabled-2TTlcf {border: none!important;}
-
 .divider-3573oO,
 .attachButtonDivider-3Glu60,
 .side-8zPYf6 .separator-gCa7yv {display: none!important;}
 
-/* == COZY MODE CHAT UI == */
+
+
+/* +++ Server Role redesign menu +++ */
+/* enforced roles */
+.managedNote-Nh2b_e.cardWarning-2yPNAa.card-3Qj_Yx {
+	text-shadow: 2px 2px #000; color: #fff !important; 
+	background: -webkit-linear-gradient(-30deg, #dc322f, #561010)  
+	!important; border: transparent !important; line-height: 120%; border-radius: 12px}
+
+/* role list bg */
+.draggable-1EOU8o{
+	background: rgba(255,255,255,0.01) !important; border-radius: 1px; }
+
+/*+++ New member list popout  design +++*/
+/* bg */
+.userPopout-3XzG_A{
+background: -webkit-linear-gradient(90deg, var(--uiGradient1), var(--uiGradient2)) !important; 
+color: white; border-radius: 12px;  }
+
+/* bg playing */
+.headerPlaying-j0WQBV.header-2BwW8b.size16-14cGz5{
+	background: -webkit-linear-gradient(90deg, #353E62, #7289DA, #7289DA)}	
+
+/* bg spotify */
+.headerSpotify-zpWxgT.header-2BwW8b.size16-14cGz5{
+	background: -webkit-linear-gradient(90deg, #0F642E, #1ed760, #1ed760)}	
+
+/*==hide protip text==*/
+.pro-1T8RK7.small-29zrCQ.statusGreen-168O6Q.weightBold-WPtQ_b{display: none}
+
+/* new tip design */
+.tip-2ab612.primary-jw0I4K{display:block; color: #fff; text-transform: uppercase !important; 
+font-size: 10.5px; line-height: 100%;border-radius: 8px; background:#000; padding: 4px; }
+
+/* ==middle section gradient ==*/
+.scrollerWrap-2lJEkd.body-3iLsc4.scrollerThemed-2oenus.themeGhostHairline-DBD-2d.scrollerFade-1Ijw5y{
+	background: -webkit-linear-gradient(90deg, rgba(0,0,0,.45), rgba(0,0,0,0.15), rgba(0,0,0,.45)); }
+
+/*== headers ==*/
+.bodyTitle-Y0qMQz.marginBottom8-AtZOdT.size12-3R0845{
+	color:white; background: rgba(0,0,0,.45); text-align: center; border-radius: 8px; padding: 2px; font-size: 12px}
+
+/*== user's server role list ==*/
+.root-3-B5F3.flex-1O1GKY.wrap-ZIn9Iy.rolesList-22qj2L.endBodySection-Rf4s-7.marginBottom20-32qID7{
+	text-shadow: 1px 1px #000}
+
+.role-2irmRk.flex-1O1GKY.alignCenter-1dQNNs{background: rgba(0,0,0,.45)}
+
+/*--- Add role button ---*/
+.addButton-pcyyf6.actionButton-VzECiy.role-2irmRk.flex-1O1GKY.alignCenter-1dQNNs.justifyCenter-3D2jYp{
+	border-color: #ccc !important; color: #ccc}
+
+.addButton-pcyyf6.actionButton-VzECiy.role-2irmRk.flex-1O1GKY.alignCenter-1dQNNs.justifyCenter-3D2jYp::before{
+	content:"ADD ROLES"; color: #ccc; padding-right: 4px; text-shadow: 1px 1px #000}
+
+/* -SERVER- roles */
+.bodyTitle-Y0qMQz.marginBottom8-AtZOdT.size12-3R0845:nth-of-type(1)::before{content: "SERVER "}
+
+/* note-S- */
+.bodyTitle-Y0qMQz.marginBottom8-AtZOdT.size12-3R0845:nth-of-type(2)::after{content: "S"}
+
+/* bot tag gradient */
+.botTagRegular-2HEhHi.botTag-2WPJ74.botTag-3W9SuW{
+	background: -webkit-linear-gradient(-30deg, var(--uiGradient1), var(--uiGradient2)) !important;}
+
+/* @ before discordname */
+.username-2b1r56{color: #dddddd !important}
+.username-2b1r56::before{content:"@"}
+
+/* msg box color */
+.quickMessage-2XpSaN.quickMessage-1yeL4E{background: rgba(18,18,18,0.9) !important; border: none}
+
+/* remove divider */
+.footer-1fjuF6{border: none}
+
+
+
+
+/* +++ COZY MODE CHAT UI +++ */
 /* welcome new chat */
 div[class*="cozyMessage"][class*="groupStart"] {
   margin-top: 35px!important; position: relative;}
