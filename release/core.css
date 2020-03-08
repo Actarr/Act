@@ -16,6 +16,11 @@ html *{font-family:var(--customFont) !important}
 
 .name-IbjUBS.container-2ax-kl{font-weight: 500}
 
+/* theme page bottom block warning */
+#bd-settingspane-container .content-column.default .bda-slist::after { 
+text-shadow: 1px 1px #000; color: #fff !important; display: block; background: linear-gradient(90deg, #dc322f, #561010); 
+font-size: 24px !important; border-radius: 12px; padding: 8px; line-height: 120%; text-align: center;
+content: "THEME CANNOT BE MODIFIED FOR RELEASE" !important; }
 
 /* Scrollbar */
 ::-webkit-scrollbar {border: transparent !important; width: 6px !important;}
@@ -32,104 +37,7 @@ html *{font-family:var(--customFont) !important}
 .scrollableContainer-2NUZem.webkit-HjD9Er {
     background: #121212 !important; }
 
-/* Background transparency */
-.bg-h5JY_x, 
-.layers-3q14ss,
-.wrapper-1Rf91z,
-.chatContent-a9vAAp,
-.container-1r6BKw.themed-ANHk51,
-.chat-3bRxxu,
-.scroller-2TZvBN,
-.sidebar-2K8pFh,
-.members-1998pB,
-.messages-3amgkRn,
-.base-3dtUhz,
-.messages-3amgkR,
-.panels-j1Uci_,
-.container-PNkimc,
-.standardSidebarView-3F1I7i,
-.header-39GIC8,
-.scroller-1JbKMe,
-.sidebarRegionScroller-3MXcoP,
-.container-3baos1,
-.sidebar-2K8pFh,
-.contentRegion-3nDuYy,
-.layer-3QrUeG,
-.container-3gCOGc,
-.privateChannels-1nO12o,
-.scroller-5bBood,
-.scroller-1IIF0A,
-.contentRegionScroller-26nc1e,
-.scroller-9moviB,
-.scroller-305q3I,
-.applicationStore-1pNvnv,
-.activityFeed-1C0EmJ,
-.bodyInner-245q0L,
-.footer-1fjuF6,
-.paginator-166-09,
-.root-1BQpZw,
-.pageWrapper-1PgVDX,
-.payment-xT17Mq,
-.searchResultsWrap-2DKFzt,
-.searchHeader-1l-wpR,
-.channelSeparator-1X1FuH .channelName-1QajIf,
-.headerNormal-T_seeN,
-.friendsTable-133bsv .friendsTableBody-1ZhKif,
-.layer-3QrUeG.baseLayer-35bLyl,
-.app-2rEoOp,
-.container-1D34oG,
-.nowPlayingColumn-2sl4cE {background: transparent !important; }
 
-/* remove things - ui clean up */
-.homeIcon-tEMBK1,
-.actions-1SQwjn,
-.listItem-2P_4kh:nth-of-type(2),
-.listItem-2P_4kh:nth-of-type(12),
-.animatorTop-2Y7x2r .menu-Sp6bN1 .separator-2zcjq8,
-.animatorTop-2Y7x2r .menu-Sp6bN1 .helper-2c73HK,
-.customStatusIcon-3v67m6,
-.channelNotice-1-XFjC.premiumGuildSubscription-3oKecP,
-.art-347BZj{display: none;}
-
-/* Shadow removing */
-.container-1r6BKw,
-.searchBar-6Kv8R2,
-.emojiRow-zIc7ZX,
-.title-3qD0b-,
-.content-yTz4x3:before,
-.container-3T1zWi:before,
-.container-19hC9u:before,
-.container-xm7Ad0:before,
-.friendsTable-133bsv:before,
-.member-1q7VfX,
-.bannedUser-1IalTM,
-.inviteSettingsInviteRow-3p2O-N,
-.searchResult-3pzFAB .hit-NLlWXA,
-.searchHeader-1l-wpR,
-.item-3eFBNF,
-.game-1ipmAa,
-.header-2o-2hj {box-shadow: none!important;}
-.searchResult-3pzFAB:before,
-.searchResult-3pzFAB:after,
-.channelSeparator-1X1FuH:before,
-.children-19S4PO:after {display: none!important}
-
-/* remove thing borders */
-.header-39GIC8,
-.channelTextArea-rNsIhG,
-.leaveActionWrapper-34XGz6,
-.featureBorder-7j4v58,
-.card-FDVird:before,
-.paymentHeader-3QlZQi,
-.bottomDivider-1K9Gao,
-.divider-3wNib3,
-.rowWrapper-2fB6P0+.rowWrapper-2fB6P0 .row-ZLfFhY,
-.friendsTable-133bsv .friendsTableHeader-32yE7d,
-.friendsTable-133bsv .friendsRow-2yicud+.friendsRow-2yicud,
-.dividerEnabled-2TTlcf {border: none!important;}
-.divider-3573oO,
-.attachButtonDivider-3Glu60,
-.side-8zPYf6 .separator-gCa7yv {display: none!important;}
 
 
 
@@ -489,8 +397,6 @@ body:active .animatorTop-2Y7x2r .menu-Sp6bN1:not(:active) {
 
 .animatorTop-2Y7x2r .menu-Sp6bN1 .itemBase-1Qj4z6:hover .statusIconText-3b4TkH {transform: scale(2.25);}
 
-.art-347BZj {display: none;}
-
 .header-3C6qT5 {
   align-items: stretch; padding-top: 0;}
 
@@ -509,16 +415,127 @@ body:active .animatorTop-2Y7x2r .menu-Sp6bN1:not(:active) {
 
 .cancelButton-2O3h8t:hover {text-decoration: none;}
 
+
+
+/* Background transparency */
+.bg-h5JY_x, 
+.layers-3q14ss,
+.wrapper-1Rf91z,
+.chatContent-a9vAAp,
+.container-1r6BKw.themed-ANHk51,
+.chat-3bRxxu,
+.scroller-2TZvBN,
+.sidebar-2K8pFh,
+.members-1998pB,
+.messages-3amgkRn,
+.base-3dtUhz,
+.messages-3amgkR,
+.panels-j1Uci_,
+.container-PNkimc,
+.standardSidebarView-3F1I7i,
+.header-39GIC8,
+.scroller-1JbKMe,
+.sidebarRegionScroller-3MXcoP,
+.container-3baos1,
+.sidebar-2K8pFh,
+.contentRegion-3nDuYy,
+.layer-3QrUeG,
+.container-3gCOGc,
+.privateChannels-1nO12o,
+.scroller-5bBood,
+.scroller-1IIF0A,
+.contentRegionScroller-26nc1e,
+.scroller-9moviB,
+.scroller-305q3I,
+.applicationStore-1pNvnv,
+.activityFeed-1C0EmJ,
+.bodyInner-245q0L,
+.footer-1fjuF6,
+.paginator-166-09,
+.root-1BQpZw,
+.pageWrapper-1PgVDX,
+.payment-xT17Mq,
+.searchResultsWrap-2DKFzt,
+.searchHeader-1l-wpR,
+.channelSeparator-1X1FuH .channelName-1QajIf,
+.headerNormal-T_seeN,
+.friendsTable-133bsv .friendsTableBody-1ZhKif,
+.layer-3QrUeG.baseLayer-35bLyl,
+.app-2rEoOp,
+.container-1D34oG,
+.nowPlayingColumn-2sl4cE {background: transparent !important; }
+
+/* remove things - ui clean up */
+.homeIcon-tEMBK1,
+.actions-1SQwjn,
+.listItem-2P_4kh:nth-of-type(2),
+.listItem-2P_4kh:nth-of-type(12),
+.animatorTop-2Y7x2r .menu-Sp6bN1 .separator-2zcjq8,
+.animatorTop-2Y7x2r .menu-Sp6bN1 .helper-2c73HK,
+.customStatusIcon-3v67m6,
+.channelNotice-1-XFjC.premiumGuildSubscription-3oKecP,
+.art-347BZj{display: none;}
+
+/* Shadow removing */
+.container-1r6BKw,
+.searchBar-6Kv8R2,
+.emojiRow-zIc7ZX,
+.title-3qD0b-,
+.content-yTz4x3:before,
+.container-3T1zWi:before,
+.container-19hC9u:before,
+.container-xm7Ad0:before,
+.friendsTable-133bsv:before,
+.member-1q7VfX,
+.bannedUser-1IalTM,
+.inviteSettingsInviteRow-3p2O-N,
+.searchResult-3pzFAB .hit-NLlWXA,
+.searchHeader-1l-wpR,
+.item-3eFBNF,
+.game-1ipmAa,
+.header-2o-2hj {box-shadow: none!important;}
+.searchResult-3pzFAB:before,
+.searchResult-3pzFAB:after,
+.channelSeparator-1X1FuH:before,
+.children-19S4PO:after {display: none!important}
+
+/* remove thing borders */
+.header-39GIC8,
+.channelTextArea-rNsIhG,
+.leaveActionWrapper-34XGz6,
+.featureBorder-7j4v58,
+.card-FDVird:before,
+.paymentHeader-3QlZQi,
+.bottomDivider-1K9Gao,
+.divider-3wNib3,
+.rowWrapper-2fB6P0+.rowWrapper-2fB6P0 .row-ZLfFhY,
+.friendsTable-133bsv .friendsTableHeader-32yE7d,
+.friendsTable-133bsv .friendsRow-2yicud+.friendsRow-2yicud,
+.dividerEnabled-2TTlcf {border: none!important;}
+.divider-3573oO,
+.attachButtonDivider-3Glu60,
+.side-8zPYf6 .separator-gCa7yv {display: none!important;}
+
+
+
+/* removeable watermark */
+.wordmarkWindows-1v0lYD svg *{display: none!important;} .wordmark-2iDDfm 
+svg{background-image: url("https://i.imgur.com/VgXKGpd.png"); background-position: center; 
+background-repeat: no-repeat; background-size: contain; width:60px; height:16px; padding-left:15px; 
+padding-right:15px; display: block; opacity: var(--myWatermarkOpacity);}
+
+
+
 /* VERSION NUMBER ALERTS */
+/* theme page block */
 #bd-settingspane-container .content-column.default .bda-slist::before { 
   white-space: pre; text-shadow: 1px 1px #4f4f4f; color: #fff !important; display: block; background: linear-gradient(90deg, var(--uiGradient1), var(--uiGradient2)); 
   font-size: 16px !important; border-radius: 12px; padding: 8px; line-height: 120%;
   content: "Using -Act- Theme (v1.6.3)\a \a v1.6.0 - Again, redid some CHAT UI; Added COMPACT Mode \a v1.6.3 - Redesigns, like this one \a \a@tomato#5185 — for questions or reports" !important; }
 
-#bd-settingspane-container .content-column.default .bda-slist::after { 
-  text-shadow: 1px 1px #000; color: #fff !important; display: block; background: linear-gradient(90deg, #dc322f, #561010); 
-  font-size: 24px !important; border-radius: 12px; padding: 8px; line-height: 120%; text-align: center;
-  content: "THEME CANNOT BE MODIFIED FOR RELEASE" !important; }
-
+/* left side usersettings block */
 #user-settings nav[class^="sidebar-"] > div > div[class^="info"]:last-child > div:first-child::before {
-  white-space: pre; content: 'Act 1.6.3-R (1.6.28.18) \a';}
+white-space: pre; content: 'Act 1.7-R (1.6.28.18) \a';}
+
+/* CREATED BY ACT / @tomato#5185 */
+/* CANNOT BE MODIFIED FOR RELEASE */
