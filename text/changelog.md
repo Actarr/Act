@@ -128,8 +128,10 @@
 ```
 ## 1.7 - redesigning update
 ```
-1.7.0 - New popout menu for members list. Altered role menu, changed bot tag colors, new watermark design - also less obstrusive. 
-New role enforcement box design (see Nitro role). Added design to warning on bottom of theme tab. Added new friends list popout tab but not currently implemented.
+1.7.0 - New popout menu for members list. Altered role menu, changed bot tag colors, 
+new watermark design - also less obstrusive. New role enforcement box design (see Nitro role). 
+Added design to warning on bottom of theme tab. 
+Added new friends list popout tab but not currently implemented.
 ```
 #
 
