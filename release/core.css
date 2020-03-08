@@ -531,11 +531,11 @@ padding-right:15px; display: block; opacity: var(--myWatermarkOpacity);}
 #bd-settingspane-container .content-column.default .bda-slist::before { 
   white-space: pre; text-shadow: 1px 1px #4f4f4f; color: #fff !important; display: block; background: linear-gradient(90deg, var(--uiGradient1), var(--uiGradient2)); 
   font-size: 16px !important; border-radius: 12px; padding: 8px; line-height: 120%;
-  content: "Using -Act- Theme (v1.6.3)\a \a v1.6.0 - Again, redid some CHAT UI; Added COMPACT Mode \a v1.6.3 - Redesigns, like this one \a \a@tomato#5185 — for questions or reports" !important; }
+  content: "Using -Act- Theme (v1.7.0)\a \a 1.7.0 - New popout menu for members list. Altered role menu, changed bot tag\a colors, new watermark design - also less obstrusive. New role enforcement box\a design (see Nitro role). Added design to warning on bottom of theme tab.\a Added new friends list popout tab but not currently implemented. \a \a@tomato#5185 — for questions or reports" !important; }
 
 /* left side usersettings block */
 #user-settings nav[class^="sidebar-"] > div > div[class^="info"]:last-child > div:first-child::before {
-white-space: pre; content: 'Act 1.7-R (1.6.28.18) \a';}
+white-space: pre; content: 'Act 1.7.0-R (1.8.27.18) \a';}
 
 /* CREATED BY ACT / @tomato#5185 */
 /* CANNOT BE MODIFIED FOR RELEASE */
