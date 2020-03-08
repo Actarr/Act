@@ -1,4 +1,4 @@
-# CHANGELOG (Update 54) [1.6.28.18]
+# CHANGELOG (Update 54) [1.8.27.18]
 
 ## 0.1 - start
 ```
@@ -125,12 +125,20 @@
 1.6.2.1 - fixed bug- version on left of user-settings
 
 1.6.3 - a lot of fixes; added proper screen for text on theme menu
+
+
+## 1.7 - redesigning update
+```
+1.7.0 - New popout menu for members list. Altered role menu, changed bot tag colors, new watermark design - also less obstrusive. 
+New role enforcement box design (see Nitro role). Added design to warning on bottom of theme tab. Added new friends list popout tab but not currently implemented.
 ```
 #
 
-### Known bugs 
+### Known bugs / TO-DO
 ```
 • User settings icons sometimes out of place
+
+• Add in new friends popout tab
 ```
 #
 
