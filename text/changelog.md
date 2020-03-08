@@ -133,7 +133,7 @@ new watermark design - also less obstrusive. New role enforcement box design (se
 Added design to warning on bottom of theme tab. 
 Added new friends list popout tab but not currently implemented.
 ```
-#
+---
 
 ### Known bugs / TO-DO
 ```
@@ -141,6 +141,6 @@ Added new friends list popout tab but not currently implemented.
 
 • Add in new friends popout tab
 ```
-#
+---
 
 ### @tomato#5185 — for questions or reports
