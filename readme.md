@@ -3,7 +3,7 @@
 A Custom .CSS Discord Theme for [BandagedBD](https://rauenzi.github.io/BetterDiscordApp/) (Bandaged BetterDiscord), a fork of [BetterDiscord](https://github.com/Jiiks/BetterDiscordApp) from Rauenzi, originally created by Jiiks. 
 
 ## Installing
-### [Download Here](https://github.com/Actarr/Act/raw/master/release/meta/Act.theme.zip) v1.7.1.1 (Latest)
+### [Download Here](https://github.com/Actarr/Act/raw/master/release/meta/Act.theme.zip) v1.7.1.2 (Latest)
 
 ### Requirements
 * [Discord App](https://discordapp.com/download/)
@@ -33,4 +33,6 @@ A Custom .CSS Discord Theme for [BandagedBD](https://rauenzi.github.io/BetterDis
 -Volume slider button fixed and redesigned. -Text no longer gets clipped on members list.
 
 1.7.1.1 - faster loading
+
+1.7.1.2 - new home icon
 ```
