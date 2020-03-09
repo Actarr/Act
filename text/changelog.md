@@ -1,4 +1,4 @@
-# CHANGELOG (Update 55) [1.8.27.18] March 8th, 2020
+# CHANGELOG (Update 56) [1.8.28.18] March 9th, 2020
 
 ## 0.1 - start
 ```
@@ -132,6 +132,9 @@
 new watermark design - also less obstrusive. New role enforcement box design (see Nitro role). 
 Added design to warning on bottom of theme tab. 
 Added new friends list popout tab but not currently implemented.
+
+1.7.1 - Popout menu complete redesign, again -- less annoying, much cleaner. Volume slider button fixed. 
+Text no longer gets clipped on members list.
 ```
 ---
 
