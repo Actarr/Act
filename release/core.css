@@ -18,9 +18,11 @@ html *{font-family:var(--customFont) !important}
 .name-IbjUBS.container-2ax-kl{font-weight: 500}
 
 
-/* volume button fix */
-.grabber-3mFHz2{padding-top:20px}
+/* volume button fix and design */
+.grabber-3mFHz2{top: 21px; transform: scale(0.85); background: white !important;}
 
+.itemSlider-FZeYw0.itemBase-tz5SeC.clickable-11uBi-{
+background: rgb(0,0,0) !important; opacity: 1}
 
 /* theme page bottom block warning */
 #bd-settingspane-container .content-column.default .bda-slist::after { 
@@ -119,7 +121,7 @@ font-size: 10.5px; line-height: 100%;border-radius: 8px; background:#000; paddin
 .username-2b1r56::before{content:"@"}
 
 /* msg box color */
-.quickMessage-2XpSaN.quickMessage-1yeL4E{background: rgba(18,18,18,0.9) !important; border: none}
+.quickMessage-2XpSaN.quickMessage-1yeL4E{background: rgba(50,50,50,0.5) !important; border:none;}
 
 /* remove divider */
 .footer-1fjuF6{border: none}
@@ -613,7 +615,7 @@ padding-right:15px; display: block; opacity: var(--myWatermarkOpacity);}
 #bd-settingspane-container .content-column.default .bda-slist::before { 
   white-space: pre; text-shadow: 1px 1px #4f4f4f; color: #fff !important; display: block; background: linear-gradient(90deg, var(--uiGradient1), var(--uiGradient2)); 
   font-size: 16px !important; border-radius: 12px; padding: 8px; line-height: 120%;
-  content: "Using -Act- Theme (v1.7.0)\a \a 1.7.1 - Popout menu complete redesign, again -- less annoying, much cleaner. \a Volume slider button fixed. Text no longer gets clipped on members list. \a \a@tomato#5185 — for questions or reports" !important; }
+  content: "Using -Act- Theme (v1.7.0)\a \a 1.7.1 - Popout menu complete redesign, again -- less annoying, much cleaner. \a Volume slider button fixed and redesigned. Text no longer gets clipped on members list. \a \a@tomato#5185 — for questions or reports" !important; }
 
 /* left side usersettings block */
 #user-settings nav[class^="sidebar-"] > div > div[class^="info"]:last-child > div:first-child::before {
