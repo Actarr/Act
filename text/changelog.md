@@ -1,5 +1,5 @@
-# CHANGELOG v1.7.1.1 *(Update 57)* 
-## [1.8.28.19] - March 9th, 2020
+# CHANGELOG 1.7.1.1 *(Update 57)* [1.8.28.19] - March 9th, 2020
+
 
 ## 1.7 - redesigning update
 ```
