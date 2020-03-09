@@ -627,11 +627,11 @@ padding-right:15px; display: block; opacity: var(--myWatermarkOpacity);}
 #bd-settingspane-container .content-column.default .bda-slist::before { 
   white-space: pre; text-shadow: 1px 1px #4f4f4f; color: #fff !important; display: block; background: linear-gradient(90deg, var(--uiGradient1), var(--uiGradient2)); 
   font-size: 16px !important; border-radius: 12px; padding: 8px; line-height: 120%;
-  content: "Using -Act- Theme (v1.7.0)\a \a 1.7.1 - Popout menu complete redesign, again -- less annoying, much cleaner. \a Volume slider button fixed and redesigned. \a Text no longer gets clipped on members list. \a \a@tomato#5185 — for questions or reports" !important; }
+  content: "Using -Act- Theme (v1.7.1.1)\a \a 1.7.1 - Popout menu complete redesign, again -- less annoying, much cleaner. \a Volume slider button fixed and redesigned. \a Text no longer gets clipped on members list. \a 1.7.1.1 - faster loading \a \a@tomato#5185 — for questions or reports" !important; }
 
 /* left side usersettings block */
 #user-settings nav[class^="sidebar-"] > div > div[class^="info"]:last-child > div:first-child::before {
-white-space: pre; content: 'Act 1.7.1-R (1.8.28.18) \a';}
+white-space: pre; content: 'Act v1.7.1.1-R [1.8.28.19] \a';}
 
 /* CREATED BY ACT / @tomato#5185 */
 /* CANNOT BE MODIFIED FOR RELEASE */
