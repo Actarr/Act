@@ -1,13 +1,12 @@
 # CHANGELOG (Update 56) [1.8.28.18] March 9th, 2020
 
----
-
 ## 1.7 - redesigning update
 ```
 1.7.1 - Popout menu complete redesign, again -- less annoying, much cleaner. Volume slider button fixed. 
 Text no longer gets clipped on members list.
 
-1.7.0 - New popout menu for members list. Altered role menu, changed bot tag colors, Added design to warning on bottom of theme tab. 
+1.7.0 - New popout menu for members list. Altered role menu, changed bot tag colors, 
+Added design to warning on bottom of theme tab. 
 Added new friends list popout tab but not currently implemented. 
 New watermark design - also less obstrusive. New role enforcement box design (see Nitro role). 
 ```
