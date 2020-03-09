@@ -1,8 +1,10 @@
-# CHANGELOG-1.7.1.1 *(Update 57)* [1.8.28.19]-March 9th, 2020
+# CHANGELOG-1.7.1.2 *(Update 58)* [1.8.28.20]-March 9th, 2020
 
 
 ## 1.7 - redesigning update
 ```
+1.7.1.2 - new home icon
+
 1.7.1.1 - faster loading
 
 1.7.1 - Popout menu complete redesign, again -- less annoying, much cleaner. Volume slider button fixed. 
