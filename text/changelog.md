@@ -1,4 +1,4 @@
-# CHANGELOG-1.7.1.2 *(Update 59)* [1.8.29.20]-March 21st, 2020
+# CHANGELOG-1.7.2 *(Update 59)* [1.8.29.20]-March 21st, 2020
 
 ### Last updated: March 21st
 
