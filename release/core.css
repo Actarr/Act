@@ -661,7 +661,7 @@ svg[name="Nova_Discord"] {display: none!important;}
 #bd-settingspane-container .content-column.default .bda-slist::before { 
   white-space: pre; text-shadow: 1px 1px #4f4f4f; color: #fff !important; display: block; background: linear-gradient(90deg, var(--uiGradient1), var(--uiGradient2)); 
   font-size: 16px !important; border-radius: 12px; padding: 8px; line-height: 120%;
-  content: "Using -Act- Theme (v1.7.2)\a \a 1.7.2 - Added gradients to bot tags, removed most text clipping,\a resized font for members list, changed verified games icon to green.\a \a@tomato#5185 — for questions or reports" !important; }
+  content: "Using -Act- Theme (v1.7.2)\a \a 1.7.2 - Added gradients to bot tags, removed most text clipping, \a resized font for members list, changed verified games icon to green.\a \a@tomato#5185 — for questions or reports" !important; }
 
 /* left side usersettings block */
 #user-settings nav[class^="sidebar-"] > div > div[class^="info"]:last-child > div:first-child::before {
