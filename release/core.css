@@ -18,6 +18,10 @@ html *{font-family:var(--customFont) !important}
 .content-3QAtGj{overflow: visible} /*text clipping member list */
 .name-IbjUBS.container-2ax-kl{font-weight: 500}
 
+/* member list */
+.name-uJV0GL{font-size: 14px;}
+.activity-2Gy-9S{color: white!important;}
+
 /* top of screen warnings */
 /* reconnected somewhere else */
 .noticeDefault-362Ko2.notice-2FJMB4.size14-3iUx6q.height36-36OHCc{
@@ -97,6 +101,7 @@ font-size: 10.5px; line-height: 100%;border-radius: 8px; background:#000; paddin
 .bodyTitle-Y0qMQz.marginBottom8-AtZOdT.size12-3R0845{
 	color:white; background: #2c2c2c66; text-align: center; border-radius: 12px; padding: 2.5px; font-size: 12px}
 
+/* note box */
 .note-3kmerW.note-3HfJZ5{
 	color:white; background: #1c1c1c66; text-align: center; border-radius: 12px; padding: 2px; font-size: 12px}
 
@@ -138,6 +143,9 @@ font-size: 10.5px; line-height: 100%;border-radius: 8px; background:#000; paddin
   display: inline-block; 
   background: -webkit-linear-gradient(30deg, var(--uiGradient1), var(--uiGradient2));
   -webkit-background-clip: text; -webkit-text-fill-color: transparent;}
+
+/* official game color */
+.icon-15YQ1T{color:#64e764!important}
 
 /* bot tag gradient */
 .botTagRegular-2HEhHi.botTag-2WPJ74.botTagCozy-1fFsZk.botTag-1un5a6,
@@ -652,11 +660,11 @@ padding-right:15px; display: block; opacity: var(--myWatermarkOpacity);}
 #bd-settingspane-container .content-column.default .bda-slist::before { 
   white-space: pre; text-shadow: 1px 1px #4f4f4f; color: #fff !important; display: block; background: linear-gradient(90deg, var(--uiGradient1), var(--uiGradient2)); 
   font-size: 16px !important; border-radius: 12px; padding: 8px; line-height: 120%;
-  content: "Using -Act- Theme (v1.7.1.2)\a \a 1.7.1 - Popout menu complete redesign, again -- less annoying, much cleaner. \a Volume slider button fixed and redesigned. \a Text no longer gets clipped on members list. \a 1.7.1.2 - new home icon \a \a@tomato#5185 — for questions or reports" !important; }
+  content: "Using -Act- Theme (v1.7.2)\a \a 1.7.2 - Added gradients to bot tags, removed most text clipping, resized font for members list, changed games to green. \a@tomato#5185 — for questions or reports" !important; }
 
 /* left side usersettings block */
 #user-settings nav[class^="sidebar-"] > div > div[class^="info"]:last-child > div:first-child::before {
-white-space: pre; content: 'Act 1.7.1.2-R [1.8.28.20] \a';}
+white-space: pre; content: 'Act 1.7.2-R [1.8.29.20] \a';}
 
 /* CREATED BY ACT / @tomato#5185 */
 /* CANNOT BE MODIFIED FOR RELEASE */
