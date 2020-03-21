@@ -1,6 +1,6 @@
 # CHANGELOG-1.7.2 *(Update 59)* [1.8.29.20]-March 21st, 2020
 
-### Last updated: March 21st
+### Recently updated: March 21st
 
 ### Previously updated: March 9th
 
