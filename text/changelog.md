@@ -3,6 +3,9 @@
 
 ## 1.7 - redesigning update
 ```
+1.7.2 - Added gradients to bot tags, removed most text clipping, 
+resized fonts on Members List, changed verified games icon to light green.
+
 1.7.1.2 - new home icon
 
 1.7.1.1 - faster loading
