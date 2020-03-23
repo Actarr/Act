@@ -1,11 +1,14 @@
-# CHANGELOG-1.7.2 *(Update 59)* [1.8.29.20]-March 21st, 2020
+# CHANGELOG-1.7.3 *(Update 60)* [1.8.30.20] - March 23rd, 2020
 
-### Recently updated: March 21st
+### Recently updated: March 23rd
 
-### Previously updated: March 9th
+### Previously updated: March 21st
 
 ## 1.7 - redesigning update
 ```
+1.7.3 - Made server folders design clean, altered in-server channel select, 
+darkened new message icon, added text shadow to new messages bar.
+
 1.7.2 - Added gradients to bot tags, removed most text clipping, 
 resized fonts on Members List, changed verified games icon to light green.
 
