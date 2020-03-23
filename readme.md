@@ -3,7 +3,7 @@
 A Custom .CSS Discord Theme for [BandagedBD](https://rauenzi.github.io/BetterDiscordApp/) (Bandaged BetterDiscord), a fork of [BetterDiscord](https://github.com/Jiiks/BetterDiscordApp) from Rauenzi, originally created by Jiiks. 
 
 ## Installing
-### [Download Here](https://github.com/Actarr/Act/raw/master/release/meta/Act.theme.rar) v1.7.2 (.RAR) [Latest]
+### [Download Here](https://github.com/Actarr/Act/raw/master/release/meta/Act.theme.rar) v1.7.2 (.RAR) [Not Latest]
 
 ### Requirements
 * [Discord App](https://discordapp.com/download/)
@@ -22,8 +22,11 @@ A Custom .CSS Discord Theme for [BandagedBD](https://rauenzi.github.io/BetterDis
 
 ---
 
-### CURRENT VERSION: v1.7.2 *(Update 59)* [1.8.29.20] - March 21st, 2020
+### CURRENT VERSION: v1.7.3 *(Update 60)* [1.8.30.20] - March 23rd, 2020
 ```
+1.7.3 - Made server folders design clean, altered in-server channel select, 
+darkened new message icon, added text shadow to new messages bar.
+
 1.7.2 - Added gradients to bot tags, removed most text clipping, 
 resized fonts on Members List, changed verified games icon to light green.
 
