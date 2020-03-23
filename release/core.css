@@ -29,6 +29,8 @@ background: linear-gradient(90deg, #dc322f, #561010); border-radius: 12px; text-
 
 .button-1MICoQ.size14-3iUx6q{background: rgba(0,0,0,.5); text-shadow: 1px 1px #000}
 
+
+
 /* volume button fix and design */
 .grabber-3mFHz2{top: 20.5px; transform: scale(0.85); background: white !important;}
 
@@ -55,6 +57,44 @@ content: "THEME CANNOT BE MODIFIED FOR RELEASE" !important; }
 .wrapper-1cBijl,
 .scrollableContainer-2NUZem.webkit-HjD9Er {
     background: #121212 !important; }
+
+/* === IN AND OUT SERVER LISTS === */
+/* in server [channel select*/
+.wrapper-1ucjTd:hover .content-3at_AU,
+.modeSelected-1zApJ_ .content-3at_AU,
+.modeSelected-1zApJ_:hover .content-3at_AU {
+  background-color: transparent; padding: 0 8px 0 12px;}
+
+/* server list unread icon darken */
+.item-2hkk8m{background:var(--textMuted)!important}
+
+/* server folders */
+.footer-3rDWdC,
+.root-1gCeng {
+  background-color: var(--backgroundColor)!important;
+  box-shadow: none!important; border: none!important;}
+  
+.root-1gCeng .input-cIJ7To {transition: all .2s ease;}
+
+.root-1gCeng .input-cIJ7To.focused-1mmYsC,
+.root-1gCeng .input-cIJ7To:focus {
+  border: 1px solid var(--uiGradient1)!important;
+  box-shadow: 0 0 10px 0 var(--uiGradient1)!important;}
+
+.expandedFolderBackground-2sPsd- {
+  background-color: rgba(25,25,25,0.5);
+box-shadow: 0 0 12px 0 rgba(0,0,0,.25);}
+
+.folder-21wGz3 {background-color: rgba(40,40,40,.85);}
+
+.channelTextArea-rNsIhG.channelTextArea-2VhZ6z{background:transparent}
+
+.folder-21wGz3.hover-2ji_A7 {background: rgba(255,255,255,.4);}
+
+.span-3ncFWM,
+.newMessagesBar-mujexs.barBase-39XTcM{text-shadow: 1.15px 1.15px #000!important;opacity:100%}
+
+.barButtonAlt-3gIkIj.barButtonBase-3UKlW2{text-shadow: -1.15px 1.15px #000!important;opacity:100%}
 
 /* +++ Server Role redesign menu +++ */
 /* enforced roles */
@@ -659,13 +699,13 @@ svg[name="Nova_Discord"] {display: none!important;}
 /* VERSION NUMBER ALERTS */
 /* theme page block */
 #bd-settingspane-container .content-column.default .bda-slist::before { 
-  white-space: pre; text-shadow: 1px 1px #4f4f4f; color: #fff !important; display: block; background: linear-gradient(90deg, var(--uiGradient1), var(--uiGradient2)); 
-  font-size: 16px !important; border-radius: 12px; padding: 8px; line-height: 120%;
-  content: "Using -Act- Theme (v1.7.2)\a \a 1.7.2 - Added gradients to bot tags, removed most text clipping, \a resized font for members list, changed verified games icon to green.\a \a@tomato#5185 — for questions or reports" !important; }
+  white-space: pre; text-shadow: 1.15px 1.15px #000; color: #fff !important; display: block; background: linear-gradient(90deg, var(--uiGradient1), var(--uiGradient2)); 
+  font-size: 15px !important; border-radius: 16px; padding: 8px; line-height: 120%;
+  content: "Using -Act- Theme (v1.7.3)                    @tomato#5185 /// for questions or support.\a \a 1.7.2 - Added gradients to bot tags, removed most text clipping, \a resized font for members list, changed verified games icon to green.\a\a 1.7.3 - Made server folders design clean, altered in-server channel select,\a darkened new message icon, added text shadow to new messages bar. "!important; }
 
 /* left side usersettings block */
 #user-settings nav[class^="sidebar-"] > div > div[class^="info"]:last-child > div:first-child::before {
-white-space: pre; content: 'Act 1.7.2-R [1.8.29.20] \a';}
+white-space: pre; content: 'Act 1.7.3-R [1.8.30.20] \a';}
 
 /* CREATED BY ACT / @tomato#5185 */
 /* CANNOT BE MODIFIED FOR RELEASE */
