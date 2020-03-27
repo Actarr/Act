@@ -1,11 +1,13 @@
-# CHANGELOG-1.7.3 *(Update 60)* [1.8.30.20] - March 23rd, 2020
+# CHANGELOG-1.7.4 *(Update 61)* [1.8.31.20] - March 27th, 2020
 
-### Recently updated: March 23rd
+### Recently updated: March 27th
 
-### Previously updated: March 21st
+### Previously updated: March 23rd
 
 ## 1.7 - redesigning update
 ```
+1.7.4 - Added text shadows across most of the client.
+
 1.7.3 - Made server folders design clean, altered in-server channel select, 
 darkened new message icon, added text shadow to new messages bar.
 
