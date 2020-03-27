@@ -14,7 +14,7 @@ A Notification will be posted on the Themes tab of BandagedBD if a manual update
 * [ThemeSettings](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Plugins/ThemeSettings)
 
 ### Notes
-* Full COMPACT support
+* Mostly Complete COMPACT support -- some custom features will not work, but Discord in it's entirety will.
 * Currently Does __NOT__ support LIGHT THEME
 
 ---
