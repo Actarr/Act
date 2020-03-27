@@ -9,9 +9,10 @@ CREDIT -- https://actarr.github.io/Act/text/credit
 */
 
 :root{
---backgroundImage: url('https://i.imgur.com/vKkhSls.png');  /*Background image replacement. Default: url('https://i.imgur.com/vKkhSls.png') */
---backgroundImageOpacity: 0.25;  /*Background image visibility, lower for darker BG. Default: 0.25 */
---homeButtonImage: url('https://i.imgur.com/aS1uKGa.jpg');  /*Home button image replacement.*/
+--backgroundColor: rgba(6,6,6,1); /* Background color tint -- Default: rgba(6,6,6,1) */
+--backgroundImage: url('https://bit.ly/ACTAppBG');  /*Background image replacement. Default: url('https://bit.ly/ACTAppBG')*/
+--backgroundImageOpacity: 0.2;  /*Background image visibility, lower for darker BG. Default: 0.25 */
+--homeButtonImage: url('https://bit.ly/ACTHomeIcon');  /*Home button image replacement. Default: url('https://bit.ly/ACTHomeIcon')*/
 --textLinks: rgba(0,255,221,1);   /* Hyperlink text color. Default: rgba(0,255,221,1) */
 --uiGradient1: rgba(255,0,255,1);  /* First gradient color -- usually the left side color. Default: rgba(255,0,255,1) */
 --uiGradient2: rgba(0,255,255,1);  /* Second gradient color -- usually the right side color. Default: rgba(0,255,255,1) */
