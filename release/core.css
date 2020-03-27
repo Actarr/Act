@@ -724,13 +724,10 @@ svg[name="Nova_Discord"] {display: none!important;}
 
 
 
-/* VERSION NUMBER ALERTS */
-/* theme page block */
-#bd-settingspane-container .content-column.default .bda-slist::before { 
+/* VERSION NUMBER ALERTS */#bd-settingspane-container .content-column.default .bda-slist::before { 
   white-space: pre; text-shadow: 1.15px 1.15px #000; color: #fff !important; display: block; background: linear-gradient(90deg, var(--uiGradient1), var(--uiGradient2)); 
   font-size: 15px !important; border-radius: 16px; padding: 8px; line-height: 120%;
-  content: "Using -Act- Theme (v1.7.4)                    @tomato#5185 — for questions or support.\a\a 1.7.3 - Made server folders design clean, altered in-server channel select,\a darkened new message icon, added text shadow to new messages bar.\a\a 1.7.4 - Added text shadows across most of the client."!important; }
-
+  content: "Using -Act- Theme (v1.7.4)                    @tomato#5185 — for questions or support. \a\a 1.7.3 - Made server folders design clean, altered in-server channel select, \a darkened new message icon, added text shadow to new messages bar. \a\a 1.7.4 - Added text shadows across most of the client."!important; }
 
 /* left side usersettings block */
 #user-settings nav[class^="sidebar-"] > div > div[class^="info"]:last-child > div:first-child::before {
