@@ -3,7 +3,7 @@
 A Custom .CSS Discord Theme for [BandagedBD](https://rauenzi.github.io/BetterDiscordApp/) (Bandaged BetterDiscord), a fork of [BetterDiscord](https://github.com/Jiiks/BetterDiscordApp) from Rauenzi, originally created by Jiiks. 
 
 ## Installing
-### [Download Here](https://github.com/Actarr/Act/raw/master/release/meta/Act.theme.rar) v1.7.4 !!AutoUpdater!! (.RAR) [Latest]
+### [Download Here](https://github.com/Actarr/Act/raw/master/release/meta/Act.theme.rar) v1.7.4 !-AutoUpdater-! (.RAR) [Latest]
 A Notification will be posted on the Themes tab of BandagedBD if a manual update is required. (Last manual required: v1.7.2)
 
 ### Requirements
