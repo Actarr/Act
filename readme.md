@@ -3,7 +3,8 @@
 A Custom .CSS Discord Theme for [BandagedBD](https://rauenzi.github.io/BetterDiscordApp/) (Bandaged BetterDiscord), a fork of [BetterDiscord](https://github.com/Jiiks/BetterDiscordApp) from Rauenzi, originally created by Jiiks. 
 
 ## Installing
-### [Download Here](https://github.com/Actarr/Act/raw/master/release/meta/Act.theme.rar) v1.7.2 (.RAR) [Not Latest]
+### [Download Here](https://github.com/Actarr/Act/raw/master/release/meta/Act.theme.rar) v1.7.4 !!AutoUpdater!! (.RAR) [Latest]
+A Notification will be posted on the Themes tab of BandagedBD if a manual update is required. (Last manual required: v1.7.2)
 
 ### Requirements
 * [Discord App](https://discordapp.com/download/)
@@ -22,23 +23,14 @@ A Custom .CSS Discord Theme for [BandagedBD](https://rauenzi.github.io/BetterDis
 
 ---
 
-### CURRENT VERSION: v1.7.3 *(Update 60)* [1.8.30.20] - March 23rd, 2020
+### CURRENT VERSION: v1.7.4 *(Update 61)* [1.8.31.20] - March 27th, 2020
 ```
+LAST TWO UPDATES:
+
+1.7.4 - Added text shadows across most of the client.
+
 1.7.3 - Made server folders design clean, altered in-server channel select, 
 darkened new message icon, added text shadow to new messages bar.
 
-1.7.2 - Added gradients to bot tags, removed most text clipping, 
-resized fonts on Members List, changed verified games icon to light green.
-
-1.7.1.2 - new home icon
-
-1.7.1.1 - faster loading
-
-1.7.1 - Popout menu complete redesign, again -- less annoying, much cleaner. Volume slider button fixed. 
-Text no longer gets clipped on members list.
-
-1.7.0 - New popout menu for members list. Altered role menu, changed bot tag colors, 
-Added design to warning on bottom of theme tab. 
-Added new friends list popout tab but not currently implemented. 
-New watermark design - also less obstrusive. New role enforcement box design (see Nitro role). 
+FULL CHANGELOG AT: https://actarr.github.io/Act/text/changelog
 ```
