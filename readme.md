@@ -3,7 +3,7 @@
 A Custom .CSS Discord Theme for [BandagedBD](https://rauenzi.github.io/BetterDiscordApp/) (Bandaged BetterDiscord), a fork of [BetterDiscord](https://github.com/Jiiks/BetterDiscordApp) from Rauenzi, originally created by Jiiks. 
 
 ## Installing
-### [Download Here](https://github.com/Actarr/Act/raw/master/release/meta/Act.theme.rar) v1.7.4 !-AutoUpdater-! (.RAR) [Latest]
+### [Download Here](https://github.com/Actarr/Act/raw/master/release/meta/Act.theme.rar) v1.8 !-AutoUpdater-! (.RAR) [Latest]
 A Notification will be posted on the Themes tab of BandagedBD if a manual update is required. (Last manual required: v1.7.2)
 
 ### Requirements
@@ -23,14 +23,15 @@ A Notification will be posted on the Themes tab of BandagedBD if a manual update
 
 ---
 
-### CURRENT VERSION: v1.7.4 *(Update 61)* [1.8.31.20] - March 27th, 2020
+### CURRENT VERSION: v1.8 (Update 62) [1.9.31.20] - April 13th, 2020
 ```
-LAST TWO UPDATES:
+LAST TWO UPDATES OF MAJOR VERSION:
 
-1.7.4 - Added text shadows across most of the client.
-
-1.7.3 - Made server folders design clean, altered in-server channel select, 
-darkened new message icon, added text shadow to new messages bar.
+1.8 — Fixed ~85% of bugs and problems caused by the newest Discord UI-update (v.57905) 
+AND, the newest BandagedDiscord UI-update (v.0.3.4). Added better colors to Add Friend button, 
+added dividers back to settings menu, changed message group dividers (date), 
+fixed missing buttons, changed headers to Arial and made bold. 
+Fixed themes tab, changed text to be readable in various areas.
 
 FULL CHANGELOG AT: https://actarr.github.io/Act/text/changelog
 ```
