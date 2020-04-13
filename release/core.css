@@ -28,12 +28,15 @@ background: linear-gradient(90deg, #dc322f, #561010); border-radius: 12px; text-
 
 .button-1MICoQ.size14-3iUx6q{background: rgba(0,0,0,.5); text-shadow: 1px 1px #000}
 
-
-/* volume button fix and design */
+/* minor fixes */
+/* volume */
 .grabber-3mFHz2{top: 20.5px; transform: scale(0.85); background: white !important;}
 
 .itemSlider-FZeYw0.itemBase-tz5SeC.clickable-11uBi-{
 background: rgb(0,0,0) !important; opacity: 1}
+/* create new dm button */
+.privateChannelRecipientsInviteButtonIcon-3A3uTc.iconWrapper-2OrFZ1.clickable-3rdHwn.focusable-1YV_-H{
+  position:absolute; left:220px; top:157.5px}
 
 /* theme page bottom block warning */
 #bd-settingspane-container .content-column.default .bda-slist::after { 
@@ -42,11 +45,14 @@ font-size: 24px !important; border-radius: 12px; padding: 8px; line-height: 120%
 content: "THEME CANNOT BE MODIFIED FOR RELEASE" !important; }
 
 /* Scrollbar */
-::-webkit-scrollbar {border: transparent !important; width: 6px !important;}
-::-webkit-scrollbar-track {background: transparent; border: none !important;}
-::-webkit-scrollbar-track-piece {background: transparent !important;border: none !important;}
-::-webkit-scrollbar-thumb {background: -webkit-linear-gradient(90deg, var(--uiGradient1), var(--uiGradient2)) !important; 
-  border-radius: 20px !important; border: none !important;}
+::-webkit-scrollbar {
+  border: none !important;width: 6px !important;}
+::-webkit-scrollbar-track {
+  background: transparent;border: none !important;}
+::-webkit-scrollbar-track-piece {
+  background: transparent !important;border: none !important;}
+::-webkit-scrollbar-thumb {
+  background: rgba(0,0,0,.5)!important;border-radius: 20px !important;border: none !important;}
 
 /* Color changes */
 .edited-3sfAzf{font-size:10.5px; color:#aaa}
@@ -55,6 +61,10 @@ content: "THEME CANNOT BE MODIFIED FOR RELEASE" !important; }
 .wrapper-1cBijl,
 .scrollableContainer-2NUZem.webkit-HjD9Er {
     background: #121212 !important; }
+
+/* add friends button friends list */
+.item-3HknzM.item-PXvHYJ:nth-of-type(5)
+{background: linear-gradient(-30deg, #43B581, #00FF66); color:white!important}
 
 /* === IN AND OUT SERVER LISTS === */
 /* in server [channel select*/
@@ -80,8 +90,7 @@ content: "THEME CANNOT BE MODIFIED FOR RELEASE" !important; }
   box-shadow: 0 0 10px 0 var(--uiGradient1)!important;}
 
 .expandedFolderBackground-2sPsd- {
-  background-color: rgba(25,25,25,0.5);
-box-shadow: 0 0 12px 0 rgba(0,0,0,.25);}
+  background-color: rgba(25,25,25,0.5); box-shadow: 0 0 12px 0 rgba(0,0,0,.25);}
 
 .folder-21wGz3 {background-color: rgba(40,40,40,.85);}
 
@@ -89,11 +98,9 @@ box-shadow: 0 0 12px 0 rgba(0,0,0,.25);}
 
 .folder-21wGz3.hover-2ji_A7 {background: rgba(255,255,255,.4);}
 
-/* unread messages bar chat */
-.span-3ncFWM,
-.newMessagesBar-mujexs.barBase-39XTcM{text-shadow: 1.15px 1.15px #000!important;opacity:100%}
-
-.barButtonAlt-3gIkIj.barButtonBase-3UKlW2{text-shadow: -1.15px 1.15px #000!important;opacity:100%}
+/* unread messages bar text */
+.barButtonAlt-3gIkIjbarButtonBase-3UKlW2,
+.span-3ncFWM{text-shadow: -1px 0 1px #444, 0 1px 1px #444, 1px 0 1px #444, 0 -1px 1px #444!important; color: #fff !important;}
 
 /* +++ Server Role redesign menu +++ */
 /* enforced roles */
@@ -163,10 +170,6 @@ font-size: 10.5px; line-height: 100%;border-radius: 8px; background:#000; paddin
 /* note-S- */
 .bodyTitle-Y0qMQz.marginBottom8-AtZOdT.size12-3R0845:nth-of-type(2)::after{content: "S"}
 
-/* bot tag gradient */
-.botTagRegular-2HEhHi.botTag-2WPJ74.botTag-3W9SuW{
-	background: -webkit-linear-gradient(-30deg, var(--uiGradient1), var(--uiGradient2)) !important;}
-
 /* @ before discordname */
 .username-2b1r56{color: #dddddd !important}
 .username-2b1r56::before{content:"@"}
@@ -186,13 +189,17 @@ font-size: 10.5px; line-height: 100%;border-radius: 8px; background:#000; paddin
 /* official game color */
 .icon-15YQ1T{color:#64e764!important}
 
-/* bot tag gradient */
+/* settings seperators */
+.side-8zPYf6 .separator-gCa7yv {display: block!important; background-color: #2d2d28}
+
+/* bot tag */
+.botTagCozy-1fFsZk.botTag-1un5a6.botTagRegular-2HEhHi.botTag-2WPJ74.rem-2m9HGf{top: 4.5px; left:2px}
+
 .botTagRegular-2HEhHi.botTag-2WPJ74.botTagCozy-1fFsZk.botTag-1un5a6,
-.botTagRegular-2HEhHi.botTag-2WPJ74.headerBotTagWithNickname--pvZ2g.bot-2Fta1w,
-.botTagInvert-18-95s.botTag-2WPJ74.headerBotTagWithNickname--pvZ2g.bot-2Fta1w,
+.botTagRegular-2HEhHi.botTag-2WPJ74.headerBotTagWithNickname--pvZ2g.bot-2Fta1w,.botTagInvert-18-95s.botTag-2WPJ74.headerBotTagWithNickname--pvZ2g.bot-2Fta1w,
 .botTagRegular-2HEhHi.botTag-2WPJ74.botTag-3W9SuW{
-	background: -webkit-linear-gradient(-30deg, var(--uiGradient1), var(--uiGradient2)) !important;
-	color: white!important; border-radius: 12px;}
+  background: -webkit-linear-gradient(-30deg, var(--uiGradient1), var(--uiGradient2)) !important;
+  color: white!important; border-radius: 12px;}
 
 /* active now tab */
 .item-3HknzM.item-PXvHYJ.selected-3s45Ha.themed-OHr7kt{background:rgba(50,50,50,0.35)!important}
@@ -210,9 +217,23 @@ font-size: 10.5px; line-height: 100%;border-radius: 8px; background:#000; paddin
 background: -webkit-linear-gradient(-60deg, var(--uiGradient1), var(--uiGradient2)) !important;
 color: #fff !important; text-shadow: 1.15px 1.15px #000!important; opacity: 1}
 
+/* Message divider (date) */
+.content-1o0f9g{
+  color:white; background-color: rgb(50,50,50); border-radius: 8px; transform: scale(1.1);}
 
+.divider-3_HH5L.hasContent-1_DUdQ.divider-JfaTT5.hasContent-1cNJDh{
+  display: inline-block; top:36px; left: 12px; border-top: transparent; margin-top: -0;}
 
 /* +++ COZY MODE CHAT UI +++ */
+/* chat block */
+.username-1A8OIy.clickable-1bVtEA.focusable-1YV_-H{top: 1px}
+
+div[class*="cozyMessage"] > div[class*="contents"] img[class*="avatar"] {
+  width: 40px; height: 40px; top: 5px; left: 1.4rem; -webkit-user-drag: none; }
+
+.message-2qnXI6.cozyMessage-3V1Y8y{
+	top:12px;display: block; padding-bottom:4px; padding-top:0px; overflow: visible;}
+
 /*highlighted messages*/
 .markup-2BOw-j.messageContent-2qWWxC{border-radius: 12px;}
 
@@ -255,8 +276,7 @@ div[class*="cozyMessage"][class*="mentioned"] > div[class*="contents"] > div[cla
 
 div[class*="cozyMessage"] > div[class*="contents"] > h2[class*="header"] span[class*="timestamp"] {margin-left: .15rem;}
 
-div[class*="cozyMessage"] > div[class*="contents"] img[class*="avatar"] {
-  width: 40px; height: 40px; top: 4px; left: 1.65rem; -webkit-user-drag: none; }
+
 
 div[class*="cozyMessage"] > div[class*="contents"] img[class*="avatar"]:hover {opacity: 0.8;}
 
@@ -531,6 +551,45 @@ body:active .animatorTop-2Y7x2r .menu-Sp6bN1:not(:active) {
     z-index: 1; opacity: var(--backgroundImageOpacity);}
 .app-19_DXt {z-index: 100;}
 
+/* BD CHANGES */
+/* custom css */
+.contentColumnDefault-1VQkGM .ace_gutter {border-radius: 4px 0 0 0; }
+.contentColumnDefault-1VQkGM .ace_scroller {border-radius: 0 4px 0 0;}
+
+.ace_editor * {
+	font-family: Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif !important;}
+
+.ace-monokai .ace_marker-layer .ace_active-line {background: transparent !important;}
+
+/* bd settings buttons */
+.ui-standard-sidebar-view .bda-slist li button,
+.bda-slist .bda-footer button,
+#bd-settingspane-container .bda-slist .plugin-settings button,
+#bd-settingspane-container .bd-pfbtn + .marginBottom8-AtZOdT ,
+#bd-settingspane-container .bd-pfbtn + .horizontal-1ae9ci .button-38aScr .contents-18-Yxp,
+#bd-settingspane-container .btn-enableall,
+#bd-settingspane-container .btn-disableall,
+#bd-settingspane-container .bd-pfbtn + .horizontal-1ae9ci .button-38aScr,
+#bd-settingspane-container .bd-pfbtn,
+#bd-settingspane-container .btn-enableall,
+#bd-settingspane-container .btn-disableall,
+#bd-settingspane-container .bd-pfbtn + .horizontal-1ae9ci .button-38aScr {
+	background: -webkit-linear-gradient(30deg, var(--uiGradient1), var(--uiGradient2));
+	text-shadow: -1px 0 1px #444, 0 1px 1px #444, 1px 0 1px #444, 0 -1px 1px #444!important; color: #fff !important;}
+
+/* small text shadow */
+.container-1D34oG,
+.chat-3bRxxu,
+.sidebar-2K8pFh{text-shadow: 0.9px 0.9px #000;}
+
+/* cancel out text shadow for headers */
+.headerText-2F0828,
+.containerDefault-3GGEv_,
+.channelTextArea-rNsIhG.channelTextArea-2VhZ6z,
+.header-13Cw0-.base-1x0h_U.size12-3cLvbJ,
+.title-30qZAO.container-2ax-kl,
+.header-zu8eWb.privateChannelsHeaderContainer-Gcpv_s.container-2ax-kl,
+.membersGroup-v9BXpm.container-2ax-kl{text-shadow: 0 0 transparent!important;}
 
 
 /* Background transparency */
@@ -672,8 +731,9 @@ body:active .animatorTop-2Y7x2r .menu-Sp6bN1:not(:active) {
   border-radius: 12px!important; color: #eee;}
 
 /* prevent text clipping */
+.privateChannelsHeaderContainer-3NB1K1.container-2ax-kl,
+.container-1D34oG,
 .content-3QAtGj,
-.theme-dark,
 .roleName-32vpEy,
 .discordTag-2_tqUA.nameTag-m8r81H,
 .customStatusText-3YJeRZ,
@@ -682,7 +742,7 @@ body:active .animatorTop-2Y7x2r .menu-Sp6bN1:not(:active) {
 .headerTagWithNickname-3IthZD.headerTag-2pZJzA.size14-3iUx6q.nameTag-m8r81H,
 .name-3_Dsmg,
 .colorStandard-2KCXvj.size14-e6ZScH.usernameContainer-1fp4nu,
-.username-2b1r56{overflow: visible !important;}
+.username-2b1r56{overflow: visible !important; white-space: nowrap;}
 
 .scrollableContainer-2NUZem {
   border: 2px solid rgba(255, 255, 255, 0.1);
@@ -694,26 +754,31 @@ background-color: calc(rgb(20,20,20) + (var--backgroundColor)) !important;}
 .form-2fGMdU:before {display: none;}
 
 /* header gradients */
+.bar-30k2ka.unreadBar-3YD_k9.unread-1xRYoj.active-1SSsBb{
+background: -webkit-linear-gradient(-60deg, var(--uiGradient1), var(--uiGradient2)) !important;
+color: #fff !important; text-shadow: 1.15px 1.15px #000!important; opacity: 1}
 
+.ownerIcon-2NH9FM.icon-1A2_vz,
+.premiumIcon-1rDbWQ.icon-1A2_vz{filter: brightness(65%)}
 
-/* custom home button */
-.wrapper-1BJsBx[aria-label="Home"] .childWrapper-anI2G9 {
-  background-image: var(--homeButtonImage); background-position: center; background-size: cover;
-  background-clip: border-box; background-repeat: no-repeat;}
-svg[name="Nova_Discord"] {display: none!important;}
-
-/* small text shadow */
-.container-1D34oG,
-.chat-3bRxxu,
-.sidebar-2K8pFh{text-shadow: 0.9px 0.9px #000;}
-
-/* cancel out text shadow for headers */
+.name-IbjUBS.container-2ax-kl,
+.headerText-2F0828,
 .containerDefault-3GGEv_,
 .channelTextArea-rNsIhG.channelTextArea-2VhZ6z,
 .header-13Cw0-.base-1x0h_U.size12-3cLvbJ,
 .title-30qZAO.container-2ax-kl,
 .header-zu8eWb.privateChannelsHeaderContainer-Gcpv_s.container-2ax-kl,
-.membersGroup-v9BXpm.container-2ax-kl{text-shadow: 0 0 #00000000!important;}
+.membersGroup-v9BXpm.container-2ax-kl,
+.container-2ax-kl{font-family: Arial!important; font-weight: 550!important;}
+.membersGroup-v9BXpm.container-2ax-kl{font-weight: bold!important;}
+
+/* custom home button */
+.wrapper-1BJsBx[aria-label="Home"] .childWrapper-anI2G9 {
+  background-image: var(--homeButtonImage); background-position: center; background-size: cover;
+  background-clip: border-box; background-repeat: no-repeat;}
+
+svg[name="Nova_Discord"]{display: none!important;}
+
 
 
 /* removeable watermark */
@@ -723,15 +788,16 @@ svg[name="Nova_Discord"] {display: none!important;}
 	padding-left:15px!important; padding-right:15px!important; display: block!important; opacity: var(--myWatermarkOpacity)!important;}
 
 
-
-/* VERSION NUMBER ALERTS */#bd-settingspane-container .content-column.default .bda-slist::before { 
-  white-space: pre; text-shadow: 1.15px 1.15px #000; color: #fff !important; display: block; background: linear-gradient(90deg, var(--uiGradient1), var(--uiGradient2)); 
-  font-size: 15px !important; border-radius: 16px; padding: 8px; line-height: 120%;
-  content: "Using -Act- Theme (v1.7.4)                    @tomato#5185 — for questions or support. \a\a 1.7.3 - Made server folders design clean, altered in-server channel select, \a darkened new message icon, added text shadow to new messages bar. \a\a 1.7.4 - Added text shadows across most of the client."!important; }
+/* VERSION NUMBER ALERTS */
+#bd-settingspane-container .content-column.default .bda-slist::before{ 
+  white-space: pre; text-shadow: -1px 0 1px #222, 0 1px 1px #222, 1px 0 1px #222, 0 -1px 1px #222; color: #fff !important; 
+  display: block; background: linear-gradient(90deg, var(--uiGradient1), var(--uiGradient2)); font-size: 16px !important; 
+  border-radius: 16px; padding: 8px; line-height: 120%; margin-top: 12px; margin-bottom: 12px; padding-top:12px; padding-bottom: 12px;
+  content: "Using -Act- Theme (v1.8)               @tomato#5185 — for questions or support. \a\a 1.8 — Fixed ~85% of bugs and problems caused by the newest Discord \a UI-update (v.57905) AND, the newest BandagedDiscord UI-update (v.0.3.4).\a Added better colors to various buttons, added dividers back to settings menu,\a changed message group dividers (date), fixed missing buttons,\a changed headers to Arial and made bold. Fixed themes tab,\a changed text to be readable in various areas."!important; }
 
 /* left side usersettings block */
 #user-settings nav[class^="sidebar-"] > div > div[class^="info"]:last-child > div:first-child::before {
-white-space: pre; content: 'Act 1.7.4-R [1.8.31.20] \a';}
+white-space: pre; content: 'Act 1.8-R [1.9.31.20] \a';}
 
 /* CREATED BY ACT / @tomato#5185 */
 /* CANNOT BE MODIFIED FOR RELEASE */
