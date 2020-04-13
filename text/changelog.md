@@ -1,8 +1,8 @@
 # CHANGELOG-1.8 *(Update 62)* [1.9.31.20] - April 13th, 2020
 
-### Recently updated: April 13th
+### Recently updated: April 13th (1.8)
 
-### Previously updated: March 27th
+### Previously updated: March 27th (1.7.4)
 
 ## 1.8 - bug fix update
 ```
