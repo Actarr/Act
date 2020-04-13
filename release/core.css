@@ -797,7 +797,7 @@ svg[name="Nova_Discord"]{display: none!important;}
 
 /* left side usersettings block */
 #user-settings nav[class^="sidebar-"] > div > div[class^="info"]:last-child > div:first-child::before {
-white-space: pre; content: 'Act 1.9-R [1.9.31.20] \a';}
+white-space: pre; content: 'Act 1.8-R [1.9.31.20] \a';}
 
 /* CREATED BY ACT / @tomato#5185 */
 /* CANNOT BE MODIFIED FOR RELEASE */
