@@ -166,7 +166,7 @@ New watermark design - also less obstrusive. New role enforcement box design (se
 ```
 • User settings icons sometimes out of place
 
-• Add in new friends popout tab
+• Add in a new friends popout tab
 ```
 ---
 
