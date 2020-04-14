@@ -1,4 +1,6 @@
-# CHANGELOG-1.8 *(Update 63)* [1.9.32.20] - April 14th, 2020
+# CHANGELOG-1.8.1 *(Update 63)* [1.9.32.20] - April 14th, 2020
+
+### Update Version Number: *OVERHAUL.MAJOR.MINOR.HOTFIX/ADJUSTMENTS*
 
 ### Recently updated: April 14th (1.8.1)
 
