@@ -27,8 +27,8 @@ A Notification will be posted on the Themes tab of BandagedBD if a manual update
 ```
 LAST TWO UPDATES OF MAJOR VERSION:
 
-1.8.1.1 - Fixed the unread messages dividers, Videos/Youtube now supported in new embed design,
-adjustments to colours.
+1.8.1.1 - Fixed more bugs (now at ~92%) - Fixed the unread messages dividers. 
+Videos/Youtube now supported in new embed design, adjustments to colours.
 
 1.8.1 — Fixed more bugs (now at ~95%), redesigned server dropdown menu and embeds in chat, 
 improved readabilty, added new menu button hover design.
