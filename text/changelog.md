@@ -8,10 +8,10 @@
 
 ## 1.8 - bug fix update
 ```
-1.8.1.1 - Fixed the unread messages dividers, Videos/Youtube now supported in new embed design,
-adjustments to colours.
+1.8.1.1 - Fixed more bugs (now at ~92%) - Fixed the unread messages dividers. 
+Videos/Youtube now supported in new embed design, adjustments to colours.
 
-1.8.1 — Fixed more bugs (now at ~95%), redesigned server dropdown menu and embeds in chat, 
+1.8.1 — Fixed more bugs (now at ~90%), redesigned server dropdown menu and embeds in chat, 
 improved readabilty, added new menu button hover design.
 
 1.8 — Fixed ~85% of bugs and problems caused by the newest Discord UI-update (v.57905) 
