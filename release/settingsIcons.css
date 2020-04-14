@@ -54,18 +54,18 @@
 /** Premium Settings **/
 /* Nitro */
 #user-settings .item-PXvHYJ:nth-of-type(8) {
-  color: var(--textLinks) !important; }
+  color: #f26a0f!important; }
 
 #user-settings .item-PXvHYJ:nth-of-type(8)[style*="color: rgb(255, 255, 255);"] {
   color: #fff !important;
-  background: var(--textLinks) !important; }
+  background: #f26a0f35 !important; }
 
 #user-settings .item-PXvHYJ:nth-of-type(8)[style*="color: rgb(255, 255, 255);"]::before {
   color: #fff;
   opacity: 1; }
 
 #user-settings .item-PXvHYJ:nth-of-type(8)[style*="background-color: rgba(114, 137, 218, 0.1);"] {
-  background-color: rgba(255, 255, 255, 0.05) !important; }
+  background-color: rgba(0, 0, 0, 0) !important; }
 
 #user-settings .item-PXvHYJ:nth-of-type(8)::before,
 #user-settings .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .ui-tab-bar.SIDE .ui-tab-bar-item:nth-of-type(8)::before {
@@ -73,7 +73,7 @@
   width: 24px;
   height: 0px;
   font-family: NoxIcons,Whitney,Helvetica Neue,Helvetica,Arial,sans-serif;
-  color: var(--textLinks);
+  color: #f26a0f;
   font-size: 23px;
   transform: translate(0, 4px); }
 
