@@ -1,4 +1,4 @@
-# CHANGELOG-1.8 *(Update 62)* [1.9.31.20] - April 13th, 2020
+# CHANGELOG-1.8 *(Update 63)* [1.9.32.20] - April 14th, 2020
 
 ### Recently updated: April 13th (1.8)
 
@@ -6,11 +6,14 @@
 
 ## 1.8 - bug fix update
 ```
+1.8.1 — Fixed more bugs (now at ~95%), redesigned server dropdown menu and embeds in chat, 
+improved readabilty, added new menu button hover design.
+
 1.8 — Fixed ~85% of bugs and problems caused by the newest Discord UI-update (v.57905) 
 AND, the newest BandagedDiscord UI-update (v.0.3.4). Added better colors to Add Friend button, 
 added dividers back to settings menu, changed message group dividers (date), 
 fixed missing buttons, changed headers to Arial and made bold. 
-Fixed themes tab, changed text to be readable in various areas.
+Fixed themes tab, improved readability in various areas.
 ```
 ## 1.7 - redesigning update
 ```
