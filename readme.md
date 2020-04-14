@@ -30,7 +30,7 @@ LAST TWO UPDATES OF MAJOR VERSION:
 1.8.1.1 - Fixed more bugs (now at ~92%) - Fixed the unread messages dividers. 
 Videos/Youtube now supported in new embed design, adjustments to colours.
 
-1.8.1 — Fixed more bugs (now at ~95%), redesigned server dropdown menu and embeds in chat, 
+1.8.1 — Fixed more bugs (now at ~90%), redesigned server dropdown menu and embeds in chat, 
 improved readabilty, added new menu button hover design.
 
 FULL CHANGELOG AT: https://actarr.github.io/Act/text/changelog
