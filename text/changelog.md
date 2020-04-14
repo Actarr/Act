@@ -1,13 +1,16 @@
-# CHANGELOG-1.8.1 *(Update 63)* [1.9.32.20] - April 14th, 2020
+# CHANGELOG-1.8.1.1 *(Update 64)* [1.9.32.21] - April 14th, 2020
 
 ### Update Version Number: *OVERHAUL.MAJOR.MINOR.HOTFIX/ADJUSTMENTS*
 
-### Recently updated: April 14th (1.8.1)
+### Recently updated: April 14th (1.8.1.1)
 
-### Previously updated: April 13th (1.8)
+### Previously updated: April 14th (1.8.1)
 
 ## 1.8 - bug fix update
 ```
+1.8.1.1 - Fixed the unread messages dividers, Videos/Youtube now supported in new embed design,
+adjustments to colours.
+
 1.8.1 — Fixed more bugs (now at ~95%), redesigned server dropdown menu and embeds in chat, 
 improved readabilty, added new menu button hover design.
 
