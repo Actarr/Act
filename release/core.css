@@ -851,7 +851,8 @@ border-bottom: 3px solid #111!important;border: 1px solid #222;border-radius: 16
   display: block; background: linear-gradient(60deg, var(--uiGradient1), var(--uiGradient2)); font-size: 16px !important; border: solid 2px #fff;
   box-shadow: 0 0 2.5px 1.5px #FFFFFF66; border-radius: 16px; padding: 8px; line-height: 120%; margin-top: 12px; 
   margin-bottom: 12px; padding-top:12px; padding-bottom: 12px;
-  content: "Using -Act- Theme (v1.8.1.1)       @tomato#5185 — for questions and reports. \a\a 1.8 (~220 lines of code)\a 1.8.1 — Fixed more bugs (now at ~95%), redesigned server dropdown menu,\a and embeds in chat, improved readabilty, added new menu button hover design.\a\a 1.8.1.1 — Fixed the unread messages dividers, Videos/Youtube now supported \a in new embed design, adjustments to colours and positionings. "!important; }
+  content: "Using -Act- Theme (v1.8.1.1)       @tomato#5185 — for questions and reports. \a\a 1.8 (~220 lines of code)\a 1.8.1 — Fixed more bugs (now at ~90%), redesigned server dropdown menu,\a and embeds in chat, improved readabilty, added new menu button hover design.\a\a 1.8.1.1 — Fixed more bugs (now at ~92%) - Fixed the Unread Message(s)\a divider. Videos/Youtube now supported in new embed design, various\a adjustments to colours and positionings. "!important; }
+
 
 /* left side usersettings block */
 #user-settings nav[class^="sidebar-"] > div > div[class^="info"]:last-child > div:first-child::before {
