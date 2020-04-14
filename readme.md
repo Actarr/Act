@@ -38,3 +38,5 @@ Fixed themes tab, improved readability in various areas.
 
 FULL CHANGELOG AT: https://actarr.github.io/Act/text/changelog
 ```
+
+---
