@@ -251,26 +251,37 @@ div[class*="cozyMessage"] > div[class*="contents"] img[class*="avatar"] {
 .markup-2BOw-j.messageContent-2qWWxC{border-radius: 12px;}
 
 .message-2qnXI6.cozyMessage-3V1Y8y.mentioned-xhSam7.groupStart-23k01U.wrapper-2a6GCs.cozy-3raOZG.zalgo-jN1Ica::before{
-	left: 14px; padding-left: 100%; opacity: 7%;}
+  left: 14px; padding-left: 100%; opacity: 7%;}
 
-/*-=-= embeds */
-.imageWrapper-2p5ogY{
-	border: solid 2px #777; border-radius: 16px;background-color:rgba(8,8,8,.4)}
-
+/*-=-=-=-= embeds -=-=-=-= */
+.imageWrapper-2p5ogY,
 .anchor-3Z-8Bb.anchorUnderlineOnHover-2ESHQB.imageWrapper-2p5ogY.imageZoom-1n-ADA.clickable-3Ya1ho.embedWrapper-lXpS3L.embedMedia-1guQoW.embedImage-2W1cML{
-	border: solid 1.2px #444; border-radius: 16px;background-color:rgba(8,8,8,.8)}
+  border: solid 1.2px #444; border-radius: 12px;background-color:rgba(8,8,8,.8)}
+
+.imageWrapper-2p5ogY{background-color:rgba(8,8,8,.45)}
 
 .embedWrapper-lXpS3L.embedFull-2tM8--.embed-IeVjo6.markup-2BOw-j{
-background-color:rgba(8,8,8,.8); border: solid 1.2px; border-radius: 16px}
+  background-color:rgba(8,8,8,.95); border: solid 1.2px; border-radius: 16px}
+
+/* video embeds */
+.embedVideo-3nf0O9.embedMedia-1guQoW{
+	border: solid 1.2px #ff4444; border-radius: 16px;}
+
+.anchor-3Z-8Bb.anchorUnderlineOnHover-2ESHQB.imageWrapper-2p5ogY.imageZoom-1n-ADA.clickable-3Ya1ho.embedVideoImageComponent-34z3di{border-style: none}
 
 /* selected image */
 .inner-1ilYF7::before{
   white-space: pre; text-shadow: -1px 0 1px #222, 0 1px 1px #222, 1px 0 1px #222, 0 -1px 1px #222; color: #aaa !important; 
 display: block; font-size: 12px !important; padding: 8px; line-height: 120%; content: "Selected Image"}
 
+/* unread message divider fix */
+.divider-3_HH5L.divider-JfaTT5.isUnread-3Ef-o9,
+.divider-3_HH5L.hasContent-1_DUdQ.divider-JfaTT5.isUnread-3Ef-o9.hasContent-1cNJDh{top:10px}
 
+.divider-3_HH5L.beforeGroup-1rH1F0.divider-JfaTT5.isUnread-3Ef-o9{top:28px; margin-left:20.5px;}
 
-
+.unreadPill-2HyYtt{font-size:12px; padding: 1 10px; padding-top: 1px}
+.unreadPill-2HyYtt:after{white-space: pre; content:" Messages"}
 
 
 /* welcome new chat */
@@ -611,7 +622,7 @@ body:active .animatorTop-2Y7x2r .menu-Sp6bN1:not(:active) {
 	text-shadow: -1px 0 1px #333, 0 1px 1px #333, 1px 0 1px #333, 0 -1px 1px #333!important; color: #fff !important;}
 
 /* 360 light text shadow */
-
+.unreadPill-2HyYtt,
 .barButtonAlt-3gIkIj.barButtonBase-3UKlW2,
 .span-3ncFWM{
 	text-shadow: -1px 0 1px #333, 0 1px 1px #333, 1px 0 1px #333, 0 -1px 1px #333!important; color: #fff !important;}
@@ -840,11 +851,11 @@ border-bottom: 3px solid #111!important;border: 1px solid #222;border-radius: 16
   display: block; background: linear-gradient(60deg, var(--uiGradient1), var(--uiGradient2)); font-size: 16px !important; border: solid 2px #fff;
   box-shadow: 0 0 2.5px 1.5px #FFFFFF66; border-radius: 16px; padding: 8px; line-height: 120%; margin-top: 12px; 
   margin-bottom: 12px; padding-top:12px; padding-bottom: 12px;
-  content: "Using -Act- Theme (v1.8.1)          @tomato#5185 — for questions and reports. \a\a 1.8 — Fixed ~85% of bugs and problems caused by the newest update AND,\a the newest BD update. Added better colors to various elements, added missing\a dividers, fixed Chat UI, replaced missing buttons. Fixed themes tab,\a made text more readable globally.\a\a 1.8.1 — Fixed more bugs (now at ~95%), redesigned server dropdown menu,\a and embeds in chat, improved readabilty, added new menu button hover design. "!important; }
+  content: "Using -Act- Theme (v1.8.1.1)       @tomato#5185 — for questions and reports. \a\a 1.8 (~220 lines of code)\a 1.8.1 — Fixed more bugs (now at ~95%), redesigned server dropdown menu,\a and embeds in chat, improved readabilty, added new menu button hover design.\a\a 1.8.1.1 — Fixed the unread messages dividers, Videos/Youtube now supported \a in new embed design, adjustments to colours and positionings. "!important; }
 
 /* left side usersettings block */
 #user-settings nav[class^="sidebar-"] > div > div[class^="info"]:last-child > div:first-child::before {
-white-space: pre; content: 'Act 1.8.1-R [1.9.32.20] \a';}
+white-space: pre; content: 'Act 1.8.1.1-R [1.9.32.21] \a';}
 
 /* CREATED BY ACT / @tomato#5185 */
 /* CANNOT BE MODIFIED FOR RELEASE */
