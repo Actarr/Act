@@ -272,7 +272,7 @@ div[class*="cozyMessage"] > div[class*="contents"] img[class*="avatar"] {
 /* selected image */
 .inner-1ilYF7::before{
   white-space: pre; text-shadow: -1px 0 1px #222, 0 1px 1px #222, 1px 0 1px #222, 0 -1px 1px #222; color: #aaa !important; 
-display: block; font-size: 12px !important; padding: 8px; line-height: 120%; content: "Selected Image"}
+display: block; font-size: 12px !important; padding: 8px; line-height: 120%; content: "Embed"}
 
 /* unread message divider fix */
 .divider-3_HH5L.divider-JfaTT5.isUnread-3Ef-o9,
