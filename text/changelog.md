@@ -1,8 +1,8 @@
 # CHANGELOG-1.8.1.1 *(Update 64)* [1.9.32.21] - April 14th, 2020
 
-### Update Version Number: *OVERHAUL.MAJOR.MINOR/NOT BIG ENOUGH FOR MAJOR.HOTFIXES/ADJUSTMENTS[.MINISCULE/SHADOW]*
+### Update Version Number: *OVERHAUL.MAJOR.INTERMEDIATE/MINOR.HOTFIXES/ADJUSTMENTS[.MINISCULE/SHADOW]*
 
-Shadow updates are slight or miniscule changes and will not be mentioned on the changelog or anywhere else, only on the core.css update itself.
+__Shadow updates__ are slight or miniscule changes and will not be mentioned on the changelog or anywhere else, _only on the core.css update itself._
 
 Versions only fall into Hotfixes/Adjustments when there are __multiple__ fixes or adjustments, otherwise, it will go into shadow updates.
 
