@@ -280,10 +280,6 @@ display: block; font-size: 12px !important; padding: 8px; line-height: 120%; con
 
 .divider-3_HH5L.beforeGroup-1rH1F0.divider-JfaTT5.isUnread-3Ef-o9{top:28px; margin-left:20.5px;}
 
-.unreadPill-2HyYtt{font-size:12px; padding: 1 10px; padding-top: 1px}
-.unreadPill-2HyYtt:after{white-space: pre; content:" Messages"}
-
-
 /* welcome new chat */
 div[class*="cozyMessage"][class*="groupStart"] {
   margin-top: 35px!important; position: relative;}
@@ -747,6 +743,8 @@ body:active .animatorTop-2Y7x2r .menu-Sp6bN1:not(:active) {
 .nowPlayingColumn-2sl4cE {background: transparent !important; }
 
 /* remove things - ui clean up */
+.unreadPill-2HyYtt,
+.unreadPill-2HyYtt:after,
 .homeIcon-tEMBK1,
 .actions-1SQwjn,
 .listItem-2P_4kh:nth-of-type(2),
