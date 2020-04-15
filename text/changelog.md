@@ -1,6 +1,8 @@
 # CHANGELOG-1.8.1.1 *(Update 64)* [1.9.32.21] - April 14th, 2020
 
-### Update Version Number: *OVERHAUL.MAJOR.MINOR.HOTFIX/ADJUSTMENTS*
+### Update Version Number: *OVERHAUL.MAJOR.MINOR.HOTFIX/ADJUSTMENTS[.SHADOW]*
+
+Shadow updates are tiny or minute changes and will not be mentioned on the changelog, only on the core.css update itself.
 
 ### Recently updated: April 14th (1.8.1.1)
 
