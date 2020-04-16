@@ -26,7 +26,7 @@ A Notification will be posted on the Themes tab of BandagedBD if a manual update
 ### CURRENT VERSION: v1.8.1.1 *(Update 64)* [1.9.32.21] - April 14th, 2020
 ```
 LAST TWO UPDATES OF MAJOR VERSION:
-1.8.2-r - too obtrusive- and buggy - ROLLED BACK TO 1.8.1.1. (thanks for Feedback)
+1.8.2 - (in short)too obtrusive- and buggy - ROLLED BACK TO 1.8.1.1. (thanks for Feedback)
 - Next update will be much better and much larger, without any controversial changes, promise.
 
 1.8.1.1 - Fixed more bugs (now at ~92%) - Fixed the unread messages dividers. 
