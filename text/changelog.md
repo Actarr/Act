@@ -12,6 +12,9 @@ Versions only fall into Hotfixes/Adjustments when there are __multiple__ fixes _
 
 ## 1.8 - bug fix update
 ```
+1.8.2 - too obtrusive- and buggy - ROLLED BACK TO 1.8.1.1. (thanks for Feedback)
+- Next update will be much better and much larger, without any controversial changes, promise.
+
 1.8.1.1 - Fixed more bugs (now at ~92%) - Fixed the unread messages dividers. 
 Videos/Youtube now supported in new embed design, adjustments to colours.
 
