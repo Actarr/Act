@@ -1,6 +1,8 @@
-# -Act- THEME
+# Discord -Act- THEME (APP VERSION)
 
 A Custom .CSS Discord Theme for [BandagedBD](https://rauenzi.github.io/BetterDiscordApp/) (Bandaged BetterDiscord), a fork of [BetterDiscord](https://github.com/Jiiks/BetterDiscordApp) from Rauenzi, originally created by Jiiks. 
+
+WEB VER. CAN BE FOUND HERE: [Stylish](https://userstyles.org/styles/182425/discord-act-web) (WEB-V1.0) (Release 1.8.2-rollback)
 
 ## Installing
 ### [Download Here](https://github.com/Actarr/Act/raw/master/release/meta/Act.theme.rar) v1.8.1.1 !-AutoUpdater-! (.RAR) [Latest]
@@ -26,8 +28,9 @@ A Notification will be posted on the Themes tab of BandagedBD if a manual update
 ### CURRENT VERSION: v1.8.1.1 *(Update 64)* [1.9.32.21] - April 14th, 2020
 ```
 LAST TWO UPDATES OF MAJOR VERSION:
+1.8.2-rollback - rollback version (not a real version)
 1.8.2 - (in short)too obtrusive- and buggy - ROLLED BACK TO 1.8.1.1. (thanks for Feedback)
-- Next update will be much better and much larger, without any controversial changes, promise.
+- Next proper update will be much better and much larger, without any controversial changes, promise.
 
 1.8.1.1 - Fixed more bugs (now at ~92%) - Fixed the unread messages dividers. 
 Videos/Youtube now supported in new embed design, adjustments to colours.
