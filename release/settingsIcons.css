@@ -56,11 +56,11 @@
 .marketingRefreshTier2PlanName-2O-mVv{color:orange!important}
 
 #user-settings .item-PXvHYJ:nth-of-type(8) {
-  color: #f26a0f!important; }
+  color: orange!important; }
 
 #user-settings .item-PXvHYJ:nth-of-type(8)[style*="color: rgb(255, 255, 255);"] {
   color: #fff !important;
-  background: #f26a0f35 !important; }
+  background: #FFA50035 !important; }
 
 #user-settings .item-PXvHYJ:nth-of-type(8)[style*="color: rgb(255, 255, 255);"]::before {
   color: #fff;
@@ -75,7 +75,7 @@
   width: 24px;
   height: 0px;
   font-family: NoxIcons,Whitney,Helvetica Neue,Helvetica,Arial,sans-serif;
-  color: #f26a0f;
+  color: #FFA500;
   font-size: 23px;
   transform: translate(0, 4px); }
 
