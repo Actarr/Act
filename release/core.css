@@ -57,6 +57,11 @@ content: "THEME CANNOT BE MODIFIED FOR RELEASE" !important; }
 ::-webkit-scrollbar-thumb {
   background: rgba(0,0,0,.5)!important;border-radius: 20px !important;border: none !important;}
 
+#app-mount::before {
+	content: " ";
+	z-index: -10000;
+}
+
 /* Color changes */
 .edited-3sfAzf{font-size:10.5px; color:#aaa}
 .latin24CompactTimeStamp-2V7XIQ.timestamp-3ZCmNB{font-size:9px; padding-right:2px; color:#ccc}
