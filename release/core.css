@@ -9,6 +9,19 @@
 --default-animation: cubic-bezier(0.4,0,0.2,1);
 }
 
+#app-mount::before {
+	content: " "; z-index: -10000;}
+
+.theme-dark{
+color:var(--textNormal)!important;
+  --text-normal: var(--textNormal);
+  --text-muted: var(--textMuted);
+  --text-link: var(--textLinks);
+  --channels-default: var(--channelsDefault);
+  --interactive-normal: var(--channelsNormal);
+  --interactive-hover: var(--channelsHover);
+  --interactive-active: var(--channelsActive);
+  --interactive-muted: var(--channelsMuted);}
 
 /*+++ Fonts +++*/
 @import url("https://actarr.github.io/Act/release/fonts/Inconsolata/inconsolata.css");
@@ -28,7 +41,6 @@ html *{font-family:var(--customFont) !important}
 .name-uJV0GL{font-size: 14px;}
 .activity-2Gy-9S{color: white!important;}
 
-/* top of screen warnings */
 
 
 /* minor fixes */
@@ -699,8 +711,8 @@ body:active .animatorTop-2Y7x2r .menu-Sp6bN1:not(:active) {
 
 
 
-/* Background transparency */
-.bg-h5JY_x, 
+/* remove background color */
+.bg-h5JY_x,
 .layers-3q14ss,
 .wrapper-1Rf91z,
 .chatContent-a9vAAp,
@@ -743,9 +755,8 @@ body:active .animatorTop-2Y7x2r .menu-Sp6bN1:not(:active) {
 .headerNormal-T_seeN,
 .friendsTable-133bsv .friendsTableBody-1ZhKif,
 .layer-3QrUeG.baseLayer-35bLyl,
-.app-2rEoOp,
-.container-1D34oG,
-.nowPlayingColumn-2sl4cE {background: transparent !important; }
+.app-2rEoOp {background: transparent!important;}
+.bg-AYqtMd {display: none;}
 
 /* remove things - ui clean up */
 .unreadPill-2HyYtt,
@@ -760,44 +771,46 @@ body:active .animatorTop-2Y7x2r .menu-Sp6bN1:not(:active) {
 .channelNotice-1-XFjC.premiumGuildSubscription-3oKecP,
 .art-347BZj{display: none;}
 
-/* Shadow removing */
-.container-1r6BKw,
-.searchBar-6Kv8R2,
-.emojiRow-zIc7ZX,
-.title-3qD0b-,
-.content-yTz4x3:before,
-.container-3T1zWi:before,
-.container-19hC9u:before,
-.container-xm7Ad0:before,
-.friendsTable-133bsv:before,
-.member-1q7VfX,
-.bannedUser-1IalTM,
-.inviteSettingsInviteRow-3p2O-N,
-.searchResult-3pzFAB .hit-NLlWXA,
-.searchHeader-1l-wpR,
-.item-3eFBNF,
-.game-1ipmAa,
-.header-2o-2hj {box-shadow: none!important;}
-.searchResult-3pzFAB:before,
-.searchResult-3pzFAB:after,
-.channelSeparator-1X1FuH:before,
-.children-19S4PO:after {display: none!important}
+  /* remove shadows */
+  .container-1r6BKw,
+  .searchBar-6Kv8R2,
+  .emojiRow-zIc7ZX,
+  .title-3qD0b-,
+  .content-yTz4x3:before,
+  .container-3T1zWi:before,
+  .container-19hC9u:before,
+  .container-xm7Ad0:before,
+  .friendsTable-133bsv:before,
+  .member-1q7VfX,
+  .bannedUser-1IalTM,
+  .inviteSettingsInviteRow-3p2O-N,
+  .searchResult-3pzFAB .hit-NLlWXA,
+  .searchHeader-1l-wpR,
+  .item-3eFBNF,
+  .game-1ipmAa,
+  .header-2o-2hj {box-shadow: none!important;}
+  .searchResult-3pzFAB:before,
+  .searchResult-3pzFAB:after,
+  .channelSeparator-1X1FuH:before,
+  .children-19S4PO:after {display: none!important}
 
-/* remove thing borders */
-.header-39GIC8,
-.channelTextArea-rNsIhG,
-.leaveActionWrapper-34XGz6,
-.featureBorder-7j4v58,
-.card-FDVird:before,
-.paymentHeader-3QlZQi,
-.bottomDivider-1K9Gao,
-.divider-3wNib3,
-.rowWrapper-2fB6P0+.rowWrapper-2fB6P0 .row-ZLfFhY,
-.friendsTable-133bsv .friendsTableHeader-32yE7d,
-.friendsTable-133bsv .friendsRow-2yicud+.friendsRow-2yicud,
-.dividerEnabled-2TTlcf {border: none!important;}
-.divider-3573oO,
-.attachButtonDivider-3Glu60{display: none!important;}
+  /* remove borders */
+  .header-39GIC8,
+  .channelTextArea-rNsIhG,
+  .leaveActionWrapper-34XGz6,
+  .featureBorder-7j4v58,
+  .card-FDVird:before,
+  .paymentHeader-3QlZQi,
+  .bottomDivider-1K9Gao,
+  .divider-3wNib3,
+  .rowWrapper-2fB6P0+.rowWrapper-2fB6P0 .row-ZLfFhY,
+  .friendsTable-133bsv .friendsTableHeader-32yE7d,
+  .friendsTable-133bsv .friendsRow-2yicud+.friendsRow-2yicud,
+  .dividerEnabled-2TTlcf {border: none!important;}
+  #bd-settings-sidebar .ui-tab-bar-separator,
+  .divider-3573oO,
+  .attachButtonDivider-3Glu60,
+  .side-8zPYf6 .separator-gCa7yv {display: none!important;}
 
 /* chat box color */
 .inner-zqa7da,
@@ -887,6 +900,54 @@ color: #fff !important; text-shadow: 1.15px 1.15px #000!important; opacity: 1}
 
 svg[name="Nova_Discord"]{display: none!important;}
 
+  /* windows buttons */
+  .winButton-iRh8-Z,
+  .typeWindows-1za-n7 {height: 25px;}
+  .typeWindows-1za-n7 {
+    padding: 5px 0; margin: 0; box-sizing: border-box;}
+
+  .winButton-iRh8-Z svg * {display: none;}
+  .winButton-iRh8-Z svg {
+    position: absolute;
+    top: 2.5px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 45% 45%;
+    background-color: transparent;
+    background-color: var(--bg0);
+  }
+  .winButton-iRh8-Z:hover {background-color: transparent;}
+  .winButtonMinMax-PBQ2gm:nth-child(3) svg {
+    background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSIjRkZGRkZGIj48cGF0aCBkPSJNMCAwaDI0djI0SDB6IiBmaWxsPSJub25lIi8+PHBhdGggZD0iTTcgMTRINXY1aDV2LTJIN3YtM3ptLTItNGgyVjdoM1Y1SDV2NXptMTIgN2gtM3YyaDV2LTVoLTJ2M3pNMTQgNXYyaDN2M2gyVjVoLTV6Ii8+PC9zdmc+);
+    background-position: center;
+    background-size: 77%;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+    padding: 3px;
+    transition: all .2s ease;
+  }
+  .winButtonMinMax-PBQ2gm:nth-child(4) svg {
+   background-image: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iaXNvLTg4NTktMSI/PjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iQ2FwYV8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIgd2lkdGg9IjQ1OS4zMTNweCIgaGVpZ2h0PSI0NTkuMzE0cHgiIHZpZXdCb3g9IjAgMCA0NTkuMzEzIDQ1OS4zMTQiIHhtbDpzcGFjZT0icHJlc2VydmUiPiA8cGF0aCBmaWxsPSIjZmZmIiBkPSJNNDU5LjMxMywyMjkuNjQ4YzAsMjIuMjAxLTE3Ljk5Miw0MC4xOTktNDAuMjA1LDQwLjE5OUg0MC4xODFjLTExLjA5NCwwLTIxLjE0LTQuNDk4LTI4LjQxNi0xMS43NzQgQzQuNDk1LDI1MC44MDgsMCwyNDAuNzYsMCwyMjkuNjZjLTAuMDA2LTIyLjIwNCwxNy45OTItNDAuMTk5LDQwLjIwMi00MC4xOTNoMzc4LjkzNiBDNDQxLjMzMywxODkuNDcyLDQ1OS4zMDgsMjA3LjQ1Niw0NTkuMzEzLDIyOS42NDh6Ii8+PC9zdmc+);
+   background-position: center;
+   background-size: 45%;
+   background-repeat: no-repeat;
+   border-radius: 50%;
+   padding: 3px;
+   transition: all .2s ease;
+  }
+  .winButtonClose-1HsbF- svg {
+    background-image: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48c3ZnIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiIHZpZXdCb3g9IjAgMCAxMDAwIDEwMDAiIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMCAwIDEwMDAgMTAwMCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTYzMi44LDQ5OS42bDMyOS4xLDMyOS4xYzM3LjUsMzcuNSwzNy41LDk1LjMsMCwxMzIuOGMtMTcuMywxNy4zLTQzLjMsMjguOS02Ni40LDI4LjljLTIzLjEsMC00OS4xLTExLjUtNjYuNC0yOC45TDUwMCw2MzIuNEwxNzAuOSw5NjEuNWMtMTcuMywxNy4zLTQzLjMsMjguOS02Ni40LDI4LjljLTIzLjEsMC00OS4xLTExLjUtNjYuNC0yOC45Yy0zNy41LTM3LjUtMzcuNS05NS4zLDAtMTMyLjhsMzI5LjEtMzI5LjFMMzguMSwxNzAuNkMwLjYsMTMzLDAuNiw3NS4zLDM4LjEsMzcuOGMzNy41LTM3LjUsOTUuMy0zNy41LDEzMi44LDBMNTAwLDM2Ni45TDgyOS4xLDM3LjhjMzcuNS0zNy41LDk1LjMtMzcuNSwxMzIuOCwwYzM3LjUsMzcuNSwzNy41LDk1LjMsMCwxMzIuOEw2MzIuOCw0OTkuNkw2MzIuOCw0OTkuNnoiLz48L3N2Zz4=);
+    background-position: center;
+    background-size: 45%;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+    padding: 3px;
+    transition: all .2s ease;
+  }
+.winButtonMinMax-PBQ2gm:nth-child(4):hover svg {background-color: #00ff22}
+.winButtonMinMax-PBQ2gm:nth-child(3):hover svg {background-color: #ffdd00}
+.winButtonClose-1HsbF-:hover svg {background-color: #ff2222}
+
 /* menu bUTTON HOVER */
 .draggable-1EOU8o:hover,
 .item-1GzJrl.itemBase-1Qj4z6:hover,
@@ -914,7 +975,7 @@ border-bottom: 3px solid #222!important;border: 1px solid #333;border-radius: 24
   display: block; background: linear-gradient(60deg, var(--uiGradient1), var(--uiGradient2)); font-size: 16px !important; border: solid 2px #fff;
   box-shadow: 0 0 2.5px 1.5px #FFFFFF66; border-radius: 16px; padding: 8px; line-height: 120%; margin-top: 12px; 
   margin-bottom: 12px; padding-top:12px; padding-bottom: 12px;
-  content: "Using -Act- Theme (v1.8.1.1)       @tomato#5185 — for questions and reports. \a\a 1.8 (~220 lines of code)\a 1.8.1 — Fixed more bugs (now at ~90%), redesigned server dropdown menu,\a and embeds in chat, improved readabilty, added new menu button hover design.\a\a 1.8.1.1 — Fixed more bugs (now at ~92%) - Fixed the Unread Message(s)\a divider. Videos/Youtube now supported in new embed design, various\a adjustments to colours and positionings. "!important; }
+  content: "Using -Act- Theme (v1.8.1.1)       @tomato#5185 — for questions and reports. \a\a Everything will be fixed just wait. 2.0 will be released in a short while and will \a have every bug fixed that I'm aware of."!important; }
 
 
 /* left side usersettings block */
