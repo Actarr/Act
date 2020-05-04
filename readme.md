@@ -25,12 +25,12 @@ A Notification will be posted on the Themes tab of BandagedBD if a manual update
 
 ---
 
-### CURRENT VERSION: v1.8.1.2 *(Update 64)* [1.9.32.21] - April 14th, 2020
+### CURRENT VERSION: v1.8.3 *(Update 65)* [1.9.33.22] - May 4th, 2020
 ```
 LAST TWO UPDATES OF MAJOR VERSION:
-**It wont be 1.8.3, it'll now be 2.0
+**It wont be 1.8.4, it'll now be 2.0
 
-1.8.2 - fixed a shit ton of annoying stuff (added 600 lines)
+1.8.3 - fixed a shit ton of annoying stuff (added 600 lines)
 
 1.8.1.2 - fixed weird popup 
 
