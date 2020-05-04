@@ -12,6 +12,8 @@
 #app-mount::before {
 	content: " "; z-index: -10000;}
 
+svg{fill:white!important}
+
 .theme-dark{
 color:var(--textNormal)!important;
   --text-normal: var(--textNormal);
@@ -62,6 +64,9 @@ background: rgb(0,0,0) !important; opacity: 1}
   background-color: var(--uiGradient1);
   background-image: radial-gradient(var(--uiGradient1), var(--uiGradient2));
 }
+.button-1ZiXG9,
+.wrapper-2aW0bm{background-color:var(--backgroundColor)!important;}
+
 /* == welcome message == */
 .welcomeMessage-3_Mcht .h1-1IDj26 {color:var(--main-blue-light) !important;}
 .welcomeMessage-3_Mcht .emptyMessage-2wGhmr,
@@ -1689,6 +1694,8 @@ body:active .animatorTop-2Y7x2r .menu-Sp6bN1:not(:active) {
 .art-347BZj{display: none;}
 
   /* remove shadows */
+.button-1ZiXG9,
+.wrapper-2aW0bm,
   .container-1r6BKw,
   .searchBar-6Kv8R2,
   .emojiRow-zIc7ZX,
