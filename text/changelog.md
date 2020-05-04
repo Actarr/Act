@@ -1,5 +1,5 @@
 # CHANGELOG-1.8.3 *(Update 65)* [1.9.33.22] - May 4th, 2020
-```
+
 ### Update Version Number: *OVERHAUL.MAJOR.INTERMEDIATE/MINOR.HOTFIXES+/ADJUSTMENTS[.MINISCULE/SHADOW]*
 
 __Shadow updates__ are slight or miniscule changes and will not be mentioned on the changelog or anywhere else, _only on the core.css update itself._
