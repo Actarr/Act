@@ -2051,12 +2051,12 @@ border-bottom: 3px solid #222!important;border: 1px solid #333;border-radius: 24
   display: block; background: linear-gradient(60deg, var(--uiGradient1), var(--uiGradient2)); font-size: 16px !important; border: solid 2px #fff;
   box-shadow: 0 0 2.5px 1.5px #FFFFFF66; border-radius: 16px; padding: 8px; line-height: 120%; margin-top: 12px; 
   margin-bottom: 12px; padding-top:12px; padding-bottom: 12px;
-  content: "Using -Act- Theme (v1.8.1.1)       @tomato#5185 — for questions and reports. \a\a Everything will be fixed just wait. 2.0 will be released in a short while and will \a have every bug fixed that I'm aware of."!important; }
+  content: "Using -Act- Theme (v1.8.1.2)       @tomato#5185 — for questions and reports. \a\a All bugs are fixed now. Please report if you find any problems. \a Work will continue on 2.0. It is about 90% done. \a It wont look different. It's just that everything is rewritten. \a There will be some nice visual updates however."!important; }
 
 
 /* left side usersettings block */
 #user-settings nav[class^="sidebar-"] > div > div[class^="info"]:last-child > div:first-child::before {
-white-space: pre; content: 'Act 1.8.1.1-R [1.9.32.21] \a';}
+white-space: pre; content: 'Act 1.8.1.2-R [1.9.32.22] \a';}
 
 /* CREATED BY ACT / @tomato#5185 */
 /* CANNOT BE MODIFIED FOR RELEASE */
