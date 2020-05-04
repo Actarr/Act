@@ -1808,8 +1808,9 @@ body:active .animatorTop-2Y7x2r .menu-Sp6bN1:not(:active) {
 .scrollableContainer-2NUZem {
   border: 2px solid rgba(255, 255, 255, 0.1);
   border-radius: 12px; opacity: 1}
+
 .scrollableContainer-2NUZem.webkit-HjD9Er {
-background-color: calc(rgb(20,20,20) + (var--backgroundColor)) !important;}
+background-color: rgb(20,20,20) !important;}
 
 .form-2fGMdU {margin-top: 0px;}
 .form-2fGMdU:before {display: none;}
