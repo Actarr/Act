@@ -1,17 +1,21 @@
-# CHANGELOG-1.8.1.1 *(Update 64)* [1.9.32.21] - April 14th, 2020
-
+# CHANGELOG-1.8.3 *(Update 65)* [1.9.33.22] - May 4th, 2020
+```
 ### Update Version Number: *OVERHAUL.MAJOR.INTERMEDIATE/MINOR.HOTFIXES+/ADJUSTMENTS[.MINISCULE/SHADOW]*
 
 __Shadow updates__ are slight or miniscule changes and will not be mentioned on the changelog or anywhere else, _only on the core.css update itself._
 
 Versions only fall into Hotfixes/Adjustments when there are __multiple__ fixes __and__ adjustments, otherwise, it will go into shadow updates.
 
-### Recently updated: April 14th (1.8.1.1)
+### Recently updated: May 4th (1.8.3)
 
-### Previously updated: April 14th (1.8.1)
+### Previously updated: April 14th (1.8.2)
 
 ## 1.8 - bug fix update
 ```
+**It wont be 1.8.4, it'll now be 2.0
+
+1.8.3 - fixed a shit ton of annoying stuff (added 600 lines)
+
 1.8.2 - too obtrusive- and buggy - ROLLED BACK TO 1.8.1.1. (thanks for Feedback)
 - Next update will be much better and much larger, without any controversial changes, promise.
 
