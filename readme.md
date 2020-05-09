@@ -28,7 +28,7 @@ A Notification will be posted on the Themes tab of BandagedBD if a manual update
 ### CURRENT VERSION: v1.8.3 *(Update 65)* [1.9.33.22] - May 4th, 2020
 ```
 LAST TWO UPDATES OF MAJOR VERSION:
-**It wont be 1.8.4, it'll now be 2.0
+
 
 1.8.3 - fixed a shit ton of annoying stuff (added 600 lines)
 
