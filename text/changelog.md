@@ -12,7 +12,7 @@ Versions only fall into Hotfixes/Adjustments when there are __multiple__ fixes _
 
 ## 1.8 - bug fix update
 ```
-**It wont be 1.8.4, it'll now be 2.0
+
 
 1.8.3 - fixed a shit ton of annoying stuff (added 600 lines)
 
