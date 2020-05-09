@@ -25,18 +25,17 @@ A Notification will be posted on the Themes tab of BandagedBD if a manual update
 
 ---
 
-### CURRENT VERSION: v1.8.3 *(Update 65)* [1.9.33.22] - May 4th, 2020
+### CURRENT VERSION: v1.8.4 *(Update 66)* [1.9.34.22] - May 9th, 2020
 ```
 LAST TWO UPDATES OF MAJOR VERSION:
+1.8.4  -  lot of visual changes and additions
 
-
-1.8.3 - fixed a shit ton of annoying stuff (added 600 lines)
+1.8.3 - fixed a lot ton of annoying stuff (added 600 lines)
 
 1.8.1.2 - fixed weird popup 
 
 1.8.2-rollback - rollback version (not a real version)
-1.8.2 - (in short)too obtrusive- and buggy - ROLLED BACK TO 1.8.1.1. (thanks for Feedback)
-- Next proper update will be much better and much larger, without any controversial changes, promise.
+1.8.2 - (in short)too obtrusive- and buggy - ROLLED BACK TO 1.8.1.1.
 
 1.8.1.1 - Fixed more bugs (now at ~92%) - Fixed the unread messages dividers. 
 Videos/Youtube now supported in new embed design, adjustments to colours.
