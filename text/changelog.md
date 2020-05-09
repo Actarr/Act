@@ -1,4 +1,4 @@
-# CHANGELOG-1.8.3 *(Update 65)* [1.9.33.22] - May 4th, 2020
+# CHANGELOG-1.8.4 *(Update 66)* [1.9.34.22] - May 9th, 2020
 
 ### Update Version Number: *OVERHAUL.MAJOR.INTERMEDIATE/MINOR.HOTFIXES+/ADJUSTMENTS[.MINISCULE/SHADOW]*
 
@@ -6,13 +6,13 @@ __Shadow updates__ are slight or miniscule changes and will not be mentioned on 
 
 Versions only fall into Hotfixes/Adjustments when there are __multiple__ fixes __and__ adjustments, otherwise, it will go into shadow updates.
 
-### Recently updated: May 4th (1.8.3)
+### Recently updated: May 9th (1.8.4)
 
-### Previously updated: April 14th (1.8.2)
+### Previously updated: May 4th (1.8.3)
 
 ## 1.8 - bug fix update
 ```
-
+1.8.4 - added a lot of visual changes and additions
 
 1.8.3 - fixed a shit ton of annoying stuff (added 600 lines)
 
