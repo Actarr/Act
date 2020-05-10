@@ -72,6 +72,15 @@ content: "THEME CANNOT BE MODIFIED FOR RELEASE" !important; }
 ::-webkit-scrollbar-thumb {
   background: rgba(0,0,0,.5)!important;border-radius: 20px !important;border: none !important;}
 
+/* == svg colors == */
+.attachButtonPlus-jWVFah,
+svg{fill:#aaa!important}
+
+svg:hover,
+.attachButtonPlus-jWVFah:hover,
+.unread-3zKkbm{fill:#fff!important;background:#fff!important;color:#fff!important}
+
+.item-2hkk8m{fill:#666!important;background:#666!important;color:#666!important}
 
 /* == reactions == */
 .reaction-1ELvT8 {background-color: var(--backgroundColor)!important;}
@@ -1108,7 +1117,7 @@ font-size: 10.5px; line-height: 100%;border-radius: 8px; background:#000; paddin
 .icon-15YQ1T{color:#64e764!important}
 
 /* bot tag */
-.botTagCozy-1fFsZk.botTag-1un5a6.botTagRegular-2HEhHi.botTag-2WPJ74.rem-2m9HGf{top: 4.5px; left:2px}
+.botTagCozy-1fFsZk.botTag-1un5a6.botTagRegular-2HEhHi.botTag-2WPJ74.rem-2m9HGf{top: 4px; left:2px}
 
 .botTagRegular-2HEhHi.botTag-2WPJ74.botTagCozy-1fFsZk.botTag-1un5a6,
 .botTagRegular-2HEhHi.botTag-2WPJ74.headerBotTagWithNickname--pvZ2g.bot-2Fta1w,
@@ -1409,10 +1418,7 @@ font-family:Inconsolata!important; font-weight: bold}
 .regionSelectModal-12e-57.root-1gCeng.small-3iVZYw.fullscreenOnMobile-1bD22y{
 border:solid 2px #333!important; padding: 20px 27.5px}
 
-#app-mount::before {
-	content: " ";
-	z-index: -10000;
-}
+
 
 
 
@@ -1539,11 +1545,7 @@ border-bottom: 1.15px solid var(--textLinks);border-radius: 6px;}
 .horizontalButton-2iUUDB.button-38aScr.lookFilled-1Gx00P.colorPrimary-3b3xI6.sizeMedium-1AC_Sl.grow-q77ONN
   {background: linear-gradient(-30deg, #5542FA, #FF73FA); border-radius: 16px;color:white!important}
 
-.attachButtonPlus-jWVFah,
-svg{fill:#aaa!important}
 
-.attachButtonPlus-jWVFah:hover,
-svg:hover{fill:#fff!important}
 
 
 
