@@ -2,7 +2,7 @@
 
 A Custom .CSS Discord Theme for [BandagedBD](https://rauenzi.github.io/BetterDiscordApp/) (Bandaged BetterDiscord), a fork of [BetterDiscord](https://github.com/Jiiks/BetterDiscordApp) from Rauenzi, originally created by Jiiks. 
 
-WEB VER. CAN BE FOUND HERE: [Stylish](https://userstyles.org/styles/182425/discord-act-web) (WEB-V1.1) (Release 1.8.4)
+WEB VER. CAN BE FOUND HERE: [Stylish](https://userstyles.org/styles/182425/discord-act-web) (WEB-V1.2) (Release 1.8.5)
 
 ## Installing
 ### [Download Here](https://github.com/Actarr/Act/releases/download/1.8.4/Act.theme.rar) v1.8.4 !-AutoUpdater-! (.RAR) [Latest]
@@ -25,23 +25,12 @@ A Notification will be posted on the Themes tab of BandagedBD if a manual update
 
 ---
 
-### CURRENT VERSION: v1.8.4 *(Update 66)* [1.9.34.22] - May 9th, 2020
+### CURRENT VERSION: v1.8.5 *(Update 67)* [1.9.35.22] - August 17th, 2020
 ```
 LAST TWO UPDATES OF MAJOR VERSION:
+1.8.5 - fixed discolouration
+
 1.8.4  -  lot of visual changes and additions
-
-1.8.3 - fixed a lot ton of annoying stuff (added 600 lines)
-
-1.8.1.2 - fixed weird popup 
-
-1.8.2-rollback - rollback version (not a real version)
-1.8.2 - (in short)too obtrusive- and buggy - ROLLED BACK TO 1.8.1.1.
-
-1.8.1.1 - Fixed more bugs (now at ~92%) - Fixed the unread messages dividers. 
-Videos/Youtube now supported in new embed design, adjustments to colours.
-
-1.8.1 — Fixed more bugs (now at ~90%), redesigned server dropdown menu and embeds in chat, 
-improved readabilty, added new menu button hover design.
 
 FULL CHANGELOG AT: https://actarr.github.io/Act/text/changelog
 ```
