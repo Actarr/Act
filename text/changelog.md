@@ -1,4 +1,4 @@
-# CHANGELOG-1.8.4 *(Update 66)* [1.9.34.22] - May 9th, 2020
+# CHANGELOG-1.8.5 *(Update 67)* [1.9.35.22] - August 17th, 2020
 
 ### Update Version Number: *OVERHAUL.MAJOR.INTERMEDIATE/MINOR.HOTFIXES+/ADJUSTMENTS[.MINISCULE/SHADOW]*
 
@@ -6,12 +6,14 @@ __Shadow updates__ are slight or miniscule changes and will not be mentioned on 
 
 Versions only fall into Hotfixes/Adjustments when there are __multiple__ fixes __and__ adjustments, otherwise, it will go into shadow updates.
 
-### Recently updated: May 9th (1.8.4)
+### Recently updated: August 17th (1.8.5)
 
-### Previously updated: May 4th (1.8.3)
+### Previously updated: May 9th (1.8.4)
 
 ## 1.8 - bug fix update
 ```
+1.8.5 - Fixed discolouration of sidebars and rolelist.
+
 1.8.4 - added a lot of visual changes and additions
 
 1.8.3 - fixed a shit ton of annoying stuff (added 600 lines)
